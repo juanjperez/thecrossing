@@ -1,0 +1,867 @@
+{
+  "generatedAt": "2026-02-23T03:22:28.124Z",
+  "model": "gpt-image-1",
+  "totalFrames": 139,
+  "characters": {
+    "mara": {
+      "hash": "e22b986d6f685a068f2b10fa7fa73b04dc82e03ffbba3d93166172a617e5fa95",
+      "renderedAt": "2026-02-23T00:52:23.913Z",
+      "files": {
+        "front": "public/characters/mara-front.png",
+        "side": "public/characters/mara-side.png"
+      }
+    },
+    "elias": {
+      "hash": "79e8b6b2d4b350646ee11d64cf74b7d4a975a21620e1dd23f9444739e5668063",
+      "renderedAt": "2026-02-23T00:53:59.539Z",
+      "files": {
+        "front": "public/characters/elias-front.png",
+        "side": "public/characters/elias-side.png"
+      }
+    },
+    "celeste": {
+      "hash": "9bdd50afa3396a62e9b41410d6b54aa0620c8b4aa9cfcd2f0fc1564604ff0f3a",
+      "renderedAt": "2026-02-23T00:55:07.390Z",
+      "files": {
+        "front": "public/characters/celeste-front.png",
+        "side": "public/characters/celeste-side.png"
+      }
+    }
+  },
+  "frames": {
+    "splash": {
+      "hash": "147eb8bd4a392f7e75660e94fdf338dad3518be2e250567ef4f445a3c6633311",
+      "renderedAt": "2026-02-23T00:58:50.062Z",
+      "file": "public/frames/splash.png",
+      "promptSnippet": "Wide shot. A lone figure stands at the edge of a vast canyon at dusk, silhouette..."
+    },
+    "frame-001": {
+      "hash": "5f50bc2bf4fd36728da2798092b90d171b08ba4b3e0b9c5a713ce54893dc1f39",
+      "renderedAt": "2026-02-23T01:01:05.399Z",
+      "file": "public/frames/frame-001.png",
+      "promptSnippet": "High angle shot. A river of commuters flows through a narrow downtown corridor, ..."
+    },
+    "frame-002": {
+      "hash": "857edea78afae8f19b21e538d7247f3718c5fc02320c232ed4062df5eb34691f",
+      "renderedAt": "2026-02-23T01:02:03.733Z",
+      "file": "public/frames/frame-002.png",
+      "promptSnippet": "Medium close-up. An old man sits on a bench among the rushing crowd, empty hands..."
+    },
+    "frame-003": {
+      "hash": "715423797019edf0b9862c371bfcfedc11f8c9f06be1da3af80aa4ac798bd66f",
+      "renderedAt": "2026-02-23T01:03:13.876Z",
+      "file": "public/frames/frame-003.png",
+      "promptSnippet": "Wide shot. Mara Vega stands at a podium on a vast stage, crisp dark suit, calm p..."
+    },
+    "frame-004": {
+      "hash": "58050056c5a0fcd744755c5d4359dbbe2a63f30ce8842571ce54cd700f993355",
+      "renderedAt": "2026-02-23T01:04:11.500Z",
+      "file": "public/frames/frame-004.png",
+      "promptSnippet": "Medium shot. Mara gestures toward the enormous screen as a live demo plays — a r..."
+    },
+    "frame-005": {
+      "hash": "26e31f5229ee9501830b4206a1e259415a5d09c1e55db77076a9499e0ce5d4b4",
+      "renderedAt": "2026-02-23T01:05:07.973Z",
+      "file": "public/frames/frame-005.png",
+      "promptSnippet": "Low angle shot looking up at Mara on stage as the audience rises to their feet i..."
+    },
+    "frame-006": {
+      "hash": "055ebed6c67dcb20d44268a8dce8544e631e36ac5505a6e02a36fdea5597d507",
+      "renderedAt": "2026-02-23T01:06:04.272Z",
+      "file": "public/frames/frame-006.png",
+      "promptSnippet": "Medium close-up. Mara stands alone before a mirror in a quiet backstage green ro..."
+    },
+    "frame-007": {
+      "hash": "93ba3807b93fd9ac7b6064212d85ba0682c53e8580495fc1ce37cf60b51fba46",
+      "renderedAt": "2026-02-23T01:07:00.757Z",
+      "file": "public/frames/frame-007.png",
+      "promptSnippet": "Close-up of Mara's hands under a running faucet, water dripping down her wrists...."
+    },
+    "frame-008": {
+      "hash": "0ba77d0058632dedc0daabf43535d584250bfb2a96f49fb8ab9ecb0848789951",
+      "renderedAt": "2026-02-23T01:08:04.350Z",
+      "file": "public/frames/frame-008.png",
+      "promptSnippet": "Wide shot. A glass-walled executive boardroom with an impossible city view — the..."
+    },
+    "frame-009": {
+      "hash": "8a041b732e99590b8a7091f034c9591194b32cc153f9d98ec72971e0b8b92d9b",
+      "renderedAt": "2026-02-23T01:09:01.220Z",
+      "file": "public/frames/frame-009.png",
+      "promptSnippet": "Medium two-shot. Celeste raises a hand, final but not rude, cutting Mara off mid..."
+    },
+    "frame-010": {
+      "hash": "696555b90242ca3e11479e4578e88727fd167a75c35e6e15423d7028ca4613d4",
+      "renderedAt": "2026-02-23T01:09:59.662Z",
+      "file": "public/frames/frame-010.png",
+      "promptSnippet": "Medium shot. Mara stands at a kitchen counter eating from a container, not sitti..."
+    },
+    "frame-011": {
+      "hash": "46c48f0b855c3cbf8b921fa85e75f8fbfc9a7d3142bc9ff554858e79bc9690e3",
+      "renderedAt": "2026-02-23T01:10:53.891Z",
+      "file": "public/frames/frame-011.png",
+      "promptSnippet": "Close-up of Mara's face lit by her phone screen in the dark, eyes showing existe..."
+    },
+    "frame-012": {
+      "hash": "557460206d6a09a210bf9b153414b595548cdb3c66058e3654b6e5c3cd2ce260",
+      "renderedAt": "2026-02-23T01:12:06.378Z",
+      "file": "public/frames/frame-012.png",
+      "promptSnippet": "Close-up of a phone lock screen showing a photo of Mara and Elias years ago — la..."
+    },
+    "frame-013": {
+      "hash": "a89a99526eb1cb9e9b547a414767786c5c9d069be06c75759b60ac96635c7fcb",
+      "renderedAt": "2026-02-23T01:13:11.660Z",
+      "file": "public/frames/frame-013.png",
+      "promptSnippet": "Wide shot. A fluorescent-lit war room packed with people and screens — retention..."
+    },
+    "frame-014": {
+      "hash": "aec028f7151ae45abc9b2c8edf24d2775559ebb3e086e9edefdcbfac23061494",
+      "renderedAt": "2026-02-23T01:14:16.355Z",
+      "file": "public/frames/frame-014.png",
+      "promptSnippet": "Medium close-up. Mara leans forward at the war room table, gesturing vaguely at ..."
+    },
+    "frame-015": {
+      "hash": "91299292dfafc14d66cb944306e8733df876ea73514aca1dc594e92ab82d6376",
+      "renderedAt": "2026-02-23T01:15:19.704Z",
+      "file": "public/frames/frame-015.png",
+      "promptSnippet": "Medium shot. A young man sits on a city curb with his shoes off, bare feet on co..."
+    },
+    "frame-016": {
+      "hash": "21ace26c81641492c4cefb25adbb5a375d4d0cb2709a65cd0f6905800757ee01",
+      "renderedAt": "2026-02-23T01:16:15.209Z",
+      "file": "public/frames/frame-016.png",
+      "promptSnippet": "Over-shoulder shot from the backseat of a car. Mara's phone screen shows a text ..."
+    },
+    "frame-017": {
+      "hash": "bc10caed0e88238ef29e731379840adb9eabed91e647cef03069712e583fec2c",
+      "renderedAt": "2026-02-23T01:17:34.408Z",
+      "file": "public/frames/frame-017.png",
+      "promptSnippet": "Medium shot. A simple door in a converted warehouse building in a quiet neighbor..."
+    },
+    "frame-018": {
+      "hash": "fdad3c600ce4068f5645940328253d028bcca88e9d37e9587006226af94cf7b1",
+      "renderedAt": "2026-02-23T01:18:43.934Z",
+      "file": "public/frames/frame-018.png",
+      "promptSnippet": "Wide shot. A calm, wide room with soft lamp light, green plants, and abstract pa..."
+    },
+    "frame-019": {
+      "hash": "cf24f1f6501b2de8a1dbfb9b4a4f9beab90833ef071be4b72ba634823fde2831",
+      "renderedAt": "2026-02-23T01:19:43.066Z",
+      "file": "public/frames/frame-019.png",
+      "promptSnippet": "Medium two-shot. Elias Ren crosses the room toward Mara. They lock eyes. Elias h..."
+    },
+    "frame-020": {
+      "hash": "b057e8d9ddf30693b450afe3ab4b0c108ee88dca00f55a748e218f784b0ce229",
+      "renderedAt": "2026-02-23T01:20:41.854Z",
+      "file": "public/frames/frame-020.png",
+      "promptSnippet": "Medium shot. Mara and Elias sit across from each other in a small room off the m..."
+    },
+    "frame-021": {
+      "hash": "d45163fa8cbbb83233ff320194662b008367a474d6ae36498d0e70f5705f55fd",
+      "renderedAt": "2026-02-23T01:21:39.259Z",
+      "file": "public/frames/frame-021.png",
+      "promptSnippet": "Medium close-up. Elias watches Mara with patience as she looks away, throat tigh..."
+    },
+    "frame-022": {
+      "hash": "d59fa51cdae0c62ab8dbabc7619e017a1999be790606edd99411fb3ccaff5201",
+      "renderedAt": "2026-02-23T01:22:36.898Z",
+      "file": "public/frames/frame-022.png",
+      "promptSnippet": "Close-up of Elias' hands at a workbench, holding a small pebble-like device — sm..."
+    },
+    "frame-023": {
+      "hash": "3b7b1c9dbb8e06acb97c9dae2777356f5bfb9b16890f3fbcd41ae28637c5eea0",
+      "renderedAt": "2026-02-23T01:23:56.170Z",
+      "file": "public/frames/frame-023.png",
+      "promptSnippet": "Medium two-shot. Elias and Mara sit at a small table with two chairs. Elias' pho..."
+    },
+    "frame-024": {
+      "hash": "629c288fc4f694c7f861948ae5c8cc10bcfa079d813997bee684902cf7ea0b23",
+      "renderedAt": "2026-02-23T01:24:54.379Z",
+      "file": "public/frames/frame-024.png",
+      "promptSnippet": "Medium shot. Mara and Elias sit quietly at the table, waiting. The room breathes..."
+    },
+    "frame-025": {
+      "hash": "cc43240de2776fbcc42cab82bfc7d1cd1b13112246cefb685ad2e8dc38d48f92",
+      "renderedAt": "2026-02-23T01:25:50.883Z",
+      "file": "public/frames/frame-025.png",
+      "promptSnippet": "Close-up of Mara's phone showing a text from MOM: 'ok. thx. love u.' Mara's fing..."
+    },
+    "frame-026": {
+      "hash": "ed39241290eb52bc707265952c59c8da07ea17389bcd402b127b181e91ac59ba",
+      "renderedAt": "2026-02-23T01:27:02.782Z",
+      "file": "public/frames/frame-026.png",
+      "promptSnippet": "Medium close-up. Mara's face in sharp focus, slightly desaturated background. He..."
+    },
+    "frame-027": {
+      "hash": "b5f97edcd0dd2e9cb874c7185f1c36a6340b4876e9b8a134967747099755c5b9",
+      "renderedAt": "2026-02-23T01:28:00.714Z",
+      "file": "public/frames/frame-027.png",
+      "promptSnippet": "Medium close-up. Mara stares at the small pebble-like device on the table as if ..."
+    },
+    "frame-028": {
+      "hash": "d2d440631e1e9cd035a5bbd2b1b62e13898eaa86c529ea378780cba852c7f4e1",
+      "renderedAt": "2026-02-23T01:29:00.591Z",
+      "file": "public/frames/frame-028.png",
+      "promptSnippet": "Medium two-shot. Mara and Elias stand in a quiet hallway, away from the main roo..."
+    },
+    "frame-029": {
+      "hash": "0477f87232e8306835919a740e1861cf09ea624bb6da14764ee04532be44332b",
+      "renderedAt": "2026-02-23T01:30:02.947Z",
+      "file": "public/frames/frame-029.png",
+      "promptSnippet": "Medium shot. Elias faces Mara in the hallway, speaking with simple conviction. B..."
+    },
+    "frame-030": {
+      "hash": "fe0679afceaabfd4d0d95e092c1aa2f19e7ada9a2fde8b7c25caf6e3907613fd",
+      "renderedAt": "2026-02-23T01:31:18.905Z",
+      "file": "public/frames/frame-030.png",
+      "promptSnippet": "Wide shot. The gathering space is thinning — people putting on coats quietly, li..."
+    },
+    "frame-031": {
+      "hash": "e1e7ff53da506ce7ed0b4064726fb4f821d26bd3bd4747cac2de640da217b72f",
+      "renderedAt": "2026-02-23T01:32:16.976Z",
+      "file": "public/frames/frame-031.png",
+      "promptSnippet": "Wide shot. Celeste stands alone at her office window, the city below looking lik..."
+    },
+    "frame-032": {
+      "hash": "679afc7c801c69c40897c36b356036c9a5734234bc0369237d9aba6222594280",
+      "renderedAt": "2026-02-23T01:33:12.915Z",
+      "file": "public/frames/frame-032.png",
+      "promptSnippet": "Medium close-up. Celeste leans forward, honest and almost tender, fatigue showin..."
+    },
+    "frame-033": {
+      "hash": "07cbe59e66606dde3f614a7da576c2bbc584397e9f49b4f76aec60e714ce4058",
+      "renderedAt": "2026-02-23T01:34:31.950Z",
+      "file": "public/frames/frame-033.png",
+      "promptSnippet": "Wide shot from behind. Mara walks through a pristine KINGDOM corridor lined with..."
+    },
+    "frame-034": {
+      "hash": "5749b5e73de145ebc7bcd41cd4e7ce3e4c870071a192068c14addb724c98e862",
+      "renderedAt": "2026-02-23T01:35:27.359Z",
+      "file": "public/frames/frame-034.png",
+      "promptSnippet": "Over-shoulder shot. Mara sits at her kitchen table for the first time. Her lapto..."
+    },
+    "frame-035": {
+      "hash": "94750c8735ef5a4e39b9da91e402774f174fb96533f9e135d1625bc432b61b72",
+      "renderedAt": "2026-02-23T01:36:24.971Z",
+      "file": "public/frames/frame-035.png",
+      "promptSnippet": "Close-up of a laptop screen showing two words typed in a document: 'I'm leaving...."
+    },
+    "frame-036": {
+      "hash": "691cb47b8b56fd667261b2124d8b00ab8268b7ba747926f38c34c145f65b7fad",
+      "renderedAt": "2026-02-23T01:37:32.334Z",
+      "file": "public/frames/frame-036.png",
+      "promptSnippet": "Close-up of a phone screen showing a text message from Elias: 'Whatever you choo..."
+    },
+    "frame-037": {
+      "hash": "367ea40315add83a23b9f462f754d49fcaedeee0f9522c706f85f1d744cb1c20",
+      "renderedAt": "2026-02-23T01:38:27.309Z",
+      "file": "public/frames/frame-037.png",
+      "promptSnippet": "Close-up of Mara's hand pulling a guitar pick from an office desk drawer. A smal..."
+    },
+    "frame-038": {
+      "hash": "c0b88a9787e1394425d1d05f3b30f92918eeb47ed8c98390a325c39faf0b060a",
+      "renderedAt": "2026-02-23T01:39:28.884Z",
+      "file": "public/frames/frame-038.png",
+      "promptSnippet": "Medium shot. Mara stands in the glass boardroom, resignation letter in hand. Cel..."
+    },
+    "frame-039": {
+      "hash": "a758e9811188166dd61984cf1971c7e891f8bfb22289980b28ceca3488bea5c1",
+      "renderedAt": "2026-02-23T01:40:32.575Z",
+      "file": "public/frames/frame-039.png",
+      "promptSnippet": "Medium close-up. Mara faces Celeste, voice calm, almost kind. Celeste's eyes fla..."
+    },
+    "frame-040": {
+      "hash": "da8f367407f0226da18e90355810c5464a400364b659daa21095096b004720f7",
+      "renderedAt": "2026-02-23T01:41:30.146Z",
+      "file": "public/frames/frame-040.png",
+      "promptSnippet": "Wide shot. Mara exits KINGDOM's glass building, stepping into sunlight at the bo..."
+    },
+    "frame-041": {
+      "hash": "2515ed5fc6d08e6d6346e32ba075f23f8700e511c1cec7659860a5be32e21930",
+      "renderedAt": "2026-02-23T01:42:44.538Z",
+      "file": "public/frames/frame-041.png",
+      "promptSnippet": "Medium shot. Mara steps through the door of Elias' space carrying her bag. Elias..."
+    },
+    "frame-042": {
+      "hash": "6d66a5d212eaea71d39e4c7210cae568621041530de4c450d52e38dca978d85d",
+      "renderedAt": "2026-02-23T01:43:42.707Z",
+      "file": "public/frames/frame-042.png",
+      "promptSnippet": "Medium two-shot. Mara and Elias sit at the workbench late at night, the small pe..."
+    },
+    "frame-043": {
+      "hash": "fd933e4022e6a51c86215e4435f56d198a0869213af5a4330b941dc04faf57cd",
+      "renderedAt": "2026-02-23T01:44:55.129Z",
+      "file": "public/frames/frame-043.png",
+      "promptSnippet": "Medium close-up. Mara looks directly at the small device on the workbench, jaw s..."
+    },
+    "frame-044": {
+      "hash": "0dfad2d06d6134883720c861412de75b9bde22ed121b2074a14997e1d79fea44",
+      "renderedAt": "2026-02-23T01:45:50.266Z",
+      "file": "public/frames/frame-044.png",
+      "promptSnippet": "Wide shot. Two figures stand on a rooftop at dawn, the city below glowing faintl..."
+    },
+    "frame-045": {
+      "hash": "b176e30baf5d33c69cb3167a8645eb667193afcde3242eb7bb3564279debbb71",
+      "renderedAt": "2026-02-23T01:46:58.512Z",
+      "file": "public/frames/frame-045.png",
+      "promptSnippet": "Close-up. Mara's face in pale dawn light, eyes closed, taking a full breath. Her..."
+    },
+    "frame-046": {
+      "hash": "4575bbeaa9178e58d808b9da53812966d105dc2cbe578972bba93a1ae9b29885",
+      "renderedAt": "2026-02-23T01:48:12.363Z",
+      "file": "public/frames/frame-046.png",
+      "promptSnippet": "Medium shot. Mara wakes on a worn couch in soft morning light, half-sitting, hai..."
+    },
+    "frame-047": {
+      "hash": "ea2ee5d5be8dce34cd8e19234d85d39b975ea577d059bc89cb6d5aa4b3347774",
+      "renderedAt": "2026-02-23T01:49:04.250Z",
+      "file": "public/frames/frame-047.png",
+      "promptSnippet": "Close-up of Mara's hand patting an empty pocket, fingers searching. Her face sho..."
+    },
+    "frame-048": {
+      "hash": "01140c5daccf315a5a383486f88bb6e60b8d90c3d09d095253b1ab72da60318a",
+      "renderedAt": "2026-02-23T01:50:01.728Z",
+      "file": "public/frames/frame-048.png",
+      "promptSnippet": "Medium two-shot. Elias slides a cup of tea across a workbench toward Mara. He mo..."
+    },
+    "frame-049": {
+      "hash": "971f0bfae4614bfdcfa5814d32d40c2f546c901fb21cb02cfc88287b6e94b383",
+      "renderedAt": "2026-02-23T01:51:03.324Z",
+      "file": "public/frames/frame-049.png",
+      "promptSnippet": "Close-up of a notebook filling rapidly with boxes, arrows, funnels, marketing fr..."
+    },
+    "frame-050": {
+      "hash": "7efcf59fb6ac13bb3ecc0c695ce213f526ceb0d969e5384c166d7e99682897f7",
+      "renderedAt": "2026-02-23T01:52:04.523Z",
+      "file": "public/frames/frame-050.png",
+      "promptSnippet": "Medium shot. Elias places a finger on the small Lens device, looking at Mara wit..."
+    },
+    "frame-051": {
+      "hash": "cf53a54ad179553fb7ca88dda9f20122e5f741fee031b3048daf3d3ec453d0b7",
+      "renderedAt": "2026-02-23T01:53:13.339Z",
+      "file": "public/frames/frame-051.png",
+      "promptSnippet": "Close-up of notebook page. Written in Mara's sharp handwriting: 'CONSENT ALWAYS'..."
+    },
+    "frame-052": {
+      "hash": "6e03e1a0f8a0185e021463ba7b812fcc188398337f91b1dbe720590b161e74d1",
+      "renderedAt": "2026-02-23T01:54:10.225Z",
+      "file": "public/frames/frame-052.png",
+      "promptSnippet": "Wide shot. A woman in her thirties walks fast through a city park, phone gripped..."
+    },
+    "frame-053": {
+      "hash": "d3d0736b1b57fc8632f6d4ddb02cfccbfb33a3aaf419531a4b03eb84f0c1d304",
+      "renderedAt": "2026-02-23T01:55:05.724Z",
+      "file": "public/frames/frame-053.png",
+      "promptSnippet": "Medium close-up. Tess stops walking in the park, face tight with panic softening..."
+    },
+    "frame-054": {
+      "hash": "c71198297e75d6724bb60b84d850f622cc0ffedcc2f0d2d209040a41b81e066d",
+      "renderedAt": "2026-02-23T01:56:15.722Z",
+      "file": "public/frames/frame-054.png",
+      "promptSnippet": "Wide shot. Tess stands still in the park, shoulders dropped, face tilted up look..."
+    },
+    "frame-055": {
+      "hash": "9b151b721a8273751ea1d210c5ac20023f922d8da0ceea54d8fdbc99f9cdad99",
+      "renderedAt": "2026-02-23T01:57:31.871Z",
+      "file": "public/frames/frame-055.png",
+      "promptSnippet": "Medium shot. A man in his forties sits at the edge of a bed in a dim room, black..."
+    },
+    "frame-056": {
+      "hash": "5e377e21b62b14fd846d01521f610c7dc20ede78dd788c05b526e4fd2345e3a3",
+      "renderedAt": "2026-02-23T01:58:22.521Z",
+      "file": "public/frames/frame-056.png",
+      "promptSnippet": "Close-up of Jonah lying down on his bed, eyes closed, tears drying on his cheeks..."
+    },
+    "frame-057": {
+      "hash": "413aff00b535d726acaa2878231fe34ac79e252d470cf5c286da9df09a516622",
+      "renderedAt": "2026-02-23T01:59:38.505Z",
+      "file": "public/frames/frame-057.png",
+      "promptSnippet": "Medium shot. An older man in his sixties sits at a café table, hands clasped aro..."
+    },
+    "frame-058": {
+      "hash": "677d5aadfaadcfac79dca0b70fa34e0fe86c055f31fead4a222544c0b4d88bef",
+      "renderedAt": "2026-02-23T02:00:33.517Z",
+      "file": "public/frames/frame-058.png",
+      "promptSnippet": "Extreme close-up of weathered hands typing slowly on a phone screen, replacing a..."
+    },
+    "frame-059": {
+      "hash": "69ba7e173f18934c9780a911437704b0f7a1cde0728fa87677317c42301ef175",
+      "renderedAt": "2026-02-23T02:01:51.195Z",
+      "file": "public/frames/frame-059.png",
+      "promptSnippet": "Medium close-up. Arthur stares at his phone, terrified, finger hovering over sen..."
+    },
+    "frame-060": {
+      "hash": "307a93d0c4759adcc9af1f976563bfb3bf2c5f29efa23fbb404a2a3ef23c1d0d",
+      "renderedAt": "2026-02-23T02:02:51.367Z",
+      "file": "public/frames/frame-060.png",
+      "promptSnippet": "Medium shot. Mara sits at a laptop in Elias' studio at night, screen glow on her..."
+    },
+    "frame-061": {
+      "hash": "c0dce5171d1e1421ecd0779cec12b0e332fa3dab9fea4c878c4e67946968035a",
+      "renderedAt": "2026-02-23T02:03:49.207Z",
+      "file": "public/frames/frame-061.png",
+      "promptSnippet": "Wide shot of Elias' studio interior at night. People gathered quietly — someone ..."
+    },
+    "frame-062": {
+      "hash": "7de5f120e0aa37e8f18f0b583529d81d2c695e1a0fe1283c42d90777e6948325",
+      "renderedAt": "2026-02-23T02:04:43.418Z",
+      "file": "public/frames/frame-062.png",
+      "promptSnippet": "Montage panel divided into three horizontal strips. Top: a phone screen showing ..."
+    },
+    "frame-063": {
+      "hash": "79b58a3bcf73e9789fedd9ee591f5f0e5a46fb7fc2f62ea135b7aca60630716b",
+      "renderedAt": "2026-02-23T02:05:41.411Z",
+      "file": "public/frames/frame-063.png",
+      "promptSnippet": "Close-up montage strip. A delivered package on a doorstep in afternoon light. A ..."
+    },
+    "frame-064": {
+      "hash": "3141f5d18707923ea68dce1256642f87c2dfda834c6c919abc2d78c7c551031c",
+      "renderedAt": "2026-02-23T02:06:39.886Z",
+      "file": "public/frames/frame-064.png",
+      "promptSnippet": "Medium shot. Mara sits across a table from two advisors and an investor in a spa..."
+    },
+    "frame-065": {
+      "hash": "e16f5afdcc6741d0568abca0909b2214aac59a21e36d1d146c4b23d03f8058dc",
+      "renderedAt": "2026-02-23T02:07:53.187Z",
+      "file": "public/frames/frame-065.png",
+      "promptSnippet": "Medium close-up. Mara presents calmly, no hype, hands open on the table. Behind ..."
+    },
+    "frame-066": {
+      "hash": "bb1378cc6ddda4e7bbe4b13c506382312dd623c4bd28755a8774201a2b3f33a0",
+      "renderedAt": "2026-02-23T02:09:07.044Z",
+      "file": "public/frames/frame-066.png",
+      "promptSnippet": "Two-shot. Elias steps slightly forward, Mara beside him. They exchange a glance ..."
+    },
+    "frame-067": {
+      "hash": "fce7103c85247cdf072e6c1cc0a88cb3e5afe873eb78f4f23f612534d289e10f",
+      "renderedAt": "2026-02-23T02:10:05.241Z",
+      "file": "public/frames/frame-067.png",
+      "promptSnippet": "Medium shot. Mara stands at a whiteboard drawing a flow diagram: 'OUTCOME → VERI..."
+    },
+    "frame-068": {
+      "hash": "36fc11015b2ca41ca4e698481c366c00b0897bcf2bf24fb48379719c5ff44f2d",
+      "renderedAt": "2026-02-23T02:11:11.747Z",
+      "file": "public/frames/frame-068.png",
+      "promptSnippet": "Close-up of the whiteboard. Mara's handwriting: 'REALITY RECEIPTS' circled. Elia..."
+    },
+    "frame-069": {
+      "hash": "f82784bc4dddb8adbcdabbe5fcf7747f1862d7fc917250e76f3f7c1131eb50ba",
+      "renderedAt": "2026-02-23T02:12:10.787Z",
+      "file": "public/frames/frame-069.png",
+      "promptSnippet": "Medium two-shot. Mara and Elias sit at the workbench at night, blueprints and co..."
+    },
+    "frame-070": {
+      "hash": "717f0ebed9f1b20c7f8c77a826aff5fe185375ba1f7160e6d1fb014a255b462b",
+      "renderedAt": "2026-02-23T02:13:18.023Z",
+      "file": "public/frames/frame-070.png",
+      "promptSnippet": "Close-up of paper on the workbench. In Mara's handwriting: 'CODE IS FREE. RESPON..."
+    },
+    "frame-071": {
+      "hash": "74b40cdbbdc0c7dd73f084844d42679087e0e7c7dbb8d97fda06aa9c7c58105a",
+      "renderedAt": "2026-02-23T02:14:19.430Z",
+      "file": "public/frames/frame-071.png",
+      "promptSnippet": "Medium shot. A whiteboard showing a triangle diagram: 'OUTCOME CONTRACT', 'REALI..."
+    },
+    "frame-072": {
+      "hash": "9f32db9c260d710a8bb0ca45f234b0b9b6654adc15b674749984568d06c5ca35",
+      "renderedAt": "2026-02-23T02:15:15.770Z",
+      "file": "public/frames/frame-072.png",
+      "promptSnippet": "Medium shot. Elias gestures toward a window showing the city at night beyond. Ma..."
+    },
+    "frame-073": {
+      "hash": "b7a7f2e8b6e7e2094114784e6c79f1c5fa88767090760d75946ba8a61acf7bac",
+      "renderedAt": "2026-02-23T02:16:22.796Z",
+      "file": "public/frames/frame-073.png",
+      "promptSnippet": "Wide shot. Tess's kitchen in morning chaos — lunchboxes on counter, a child's sh..."
+    },
+    "frame-074": {
+      "hash": "824f71e78dfbc8a3ef1ecb36db31a1096a0e32ef01f2dc084ae8ec4edf4463d7",
+      "renderedAt": "2026-02-23T02:17:17.577Z",
+      "file": "public/frames/frame-074.png",
+      "promptSnippet": "Close-up of a phone screen showing a simple receipt: 'OUTCOME CONTRACT INITIATED..."
+    },
+    "frame-075": {
+      "hash": "c9abb6f02f420a2caa74bf81a14c3116171bdf38cdf4f803c126950bb24109f3",
+      "renderedAt": "2026-02-23T02:18:30.050Z",
+      "file": "public/frames/frame-075.png",
+      "promptSnippet": "Medium shot. Jonah sits at a table, a letter from his employer in his shaking ha..."
+    },
+    "frame-076": {
+      "hash": "0e074afdcf26b02a45b18364055d5b6fbed6f0d4538cf430f6a0b6cd260889dc",
+      "renderedAt": "2026-02-23T02:19:45.170Z",
+      "file": "public/frames/frame-076.png",
+      "promptSnippet": "Medium close-up. Mara and Elias exchange a silent look across Jonah's doorway — ..."
+    },
+    "frame-077": {
+      "hash": "9f80a0465aa69f99837f5c7fc7741255bc86e0294fc569556c33b8208202bf7b",
+      "renderedAt": "2026-02-23T02:21:04.166Z",
+      "file": "public/frames/frame-077.png",
+      "promptSnippet": "Wide shot. A formal hearing room with institutional lighting. A panel of four of..."
+    },
+    "frame-078": {
+      "hash": "91e1ea5e1557bd4c21cfb2a8449b54e1acc0c076e21f3a807110d5489101e446",
+      "renderedAt": "2026-02-23T02:22:24.323Z",
+      "file": "public/frames/frame-078.png",
+      "promptSnippet": "Medium close-up. Mara speaks across the hearing table, calm and direct. Elias pl..."
+    },
+    "frame-079": {
+      "hash": "a3b7a6a0f5b76bd2d93a4b9be074c5a8af0e15f76fc95709e0ed4c2e87a19d6d",
+      "renderedAt": "2026-02-23T02:23:23.946Z",
+      "file": "public/frames/frame-079.png",
+      "promptSnippet": "Medium shot. A monitor displays a simple flow diagram: 'OUTCOME CONTRACT → REALI..."
+    },
+    "frame-080": {
+      "hash": "26e606fd40143ccc87267ce9013adf941b0b2152ac4fea6801121b56868822b3",
+      "renderedAt": "2026-02-23T02:24:20.248Z",
+      "file": "public/frames/frame-080.png",
+      "promptSnippet": "Medium close-up. Mara speaks with quiet authority, eyes steady. The journalist l..."
+    },
+    "frame-081": {
+      "hash": "72ec81eb98894d22ca0fd11c0d6a8a8dd8a2d23503bf91c105a1c7b61e8d96ef",
+      "renderedAt": "2026-02-23T02:25:21.861Z",
+      "file": "public/frames/frame-081.png",
+      "promptSnippet": "Wide shot. Mara and Elias exit the hearing building into bright daylight, descen..."
+    },
+    "frame-082": {
+      "hash": "02c86ea070d0e3bd813bd691dbca9f43da22de14033a9ddf947be4114c6a0200",
+      "renderedAt": "2026-02-23T02:26:18.912Z",
+      "file": "public/frames/frame-082.png",
+      "promptSnippet": "Medium two-shot. Elias nods toward the city skyline, expression serious. Mara's ..."
+    },
+    "frame-083": {
+      "hash": "1de97ec61bed7eefd4bc140a5ee97545befe89a2dbdbb973da0ea2af0e629350",
+      "renderedAt": "2026-02-23T02:27:15.400Z",
+      "file": "public/frames/frame-083.png",
+      "promptSnippet": "Wide shot. Celeste stands on a sleek press stage under polished lighting. Behind..."
+    },
+    "frame-084": {
+      "hash": "8cb066b4d6389ec81a4aa7bb80d2d338bce749fbc7f975bdde96154dd6a39b8d",
+      "renderedAt": "2026-02-23T02:28:28.479Z",
+      "file": "public/frames/frame-084.png",
+      "promptSnippet": "Medium close-up. Celeste smiles under stage lights, commanding and calm. But her..."
+    },
+    "frame-085": {
+      "hash": "83dcc0885943ed93b8dc6cde3a67dcf2ba5a8284bc852c2edfef6f1ac7229b92",
+      "renderedAt": "2026-02-23T02:29:36.334Z",
+      "file": "public/frames/frame-085.png",
+      "promptSnippet": "Wide shot of a demo screen showing a chat interface with meditative language — g..."
+    },
+    "frame-086": {
+      "hash": "53b19ab599bec31d606f5ccd82cb2e058f6a722828dcc100f7f06477d7b7a60f",
+      "renderedAt": "2026-02-23T02:30:35.688Z",
+      "file": "public/frames/frame-086.png",
+      "promptSnippet": "Montage panel divided into strips. Top: newspaper headlines — 'KINGDOM REINVENTS..."
+    },
+    "frame-087": {
+      "hash": "875b6b57b66997b883b2754f3a7444d7cefe94fbb203698162fe1339f70a34eb",
+      "renderedAt": "2026-02-23T02:31:50.078Z",
+      "file": "public/frames/frame-087.png",
+      "promptSnippet": "Medium shot. Mara watches a screen at Elias' space showing Meaning Mode headline..."
+    },
+    "frame-088": {
+      "hash": "be513b40fc96c0f214082922f27a73801dcccf261dca0365ec1cf8c3364c5cd9",
+      "renderedAt": "2026-02-23T02:32:47.392Z",
+      "file": "public/frames/frame-088.png",
+      "promptSnippet": "Medium shot. Mara paces in Elias' studio at night, arms gesturing, face furious...."
+    },
+    "frame-089": {
+      "hash": "ba9a4bfcaf314938500bcd32f3ebdbadacc5e2426c0a2aa25d7668ed0434e196",
+      "renderedAt": "2026-02-23T02:33:45.217Z",
+      "file": "public/frames/frame-089.png",
+      "promptSnippet": "Close-up two-shot. Elias stands, gentle but firm, facing Mara. Their faces are c..."
+    },
+    "frame-090": {
+      "hash": "dec0d668e38a4fad6330712d87d43ce4e75c0722fea70f0b85d390185b248373",
+      "renderedAt": "2026-02-23T02:34:44.453Z",
+      "file": "public/frames/frame-090.png",
+      "promptSnippet": "Medium shot. A small conference room. Mara sits across from two strategy types a..."
+    },
+    "frame-091": {
+      "hash": "497a3c787cc044b9f1e62014f92e43f2cc48c08f0fcf7036f6419c6d36d2695b",
+      "renderedAt": "2026-02-23T02:35:54.760Z",
+      "file": "public/frames/frame-091.png",
+      "promptSnippet": "Close-up of Mara's face. Her jaw tightens. Her eyes show the internal calculatio..."
+    },
+    "frame-092": {
+      "hash": "7a4a5b06a314e875f030c58e2f026249e2b4edc38fa7d0992e413efa660beef3",
+      "renderedAt": "2026-02-23T02:36:51.557Z",
+      "file": "public/frames/frame-092.png",
+      "promptSnippet": "Medium shot. Mara drops into a chair in Elias' studio, exhausted. Elias sits at ..."
+    },
+    "frame-093": {
+      "hash": "b99e721ecb56675837f8e011cc45a594b6b4bcc14d241b8c499a4bb8f116bf76",
+      "renderedAt": "2026-02-23T02:37:52.661Z",
+      "file": "public/frames/frame-093.png",
+      "promptSnippet": "Medium two-shot. Elias walks closer to Mara, gentle. She stands, pacing. Between..."
+    },
+    "frame-094": {
+      "hash": "0301215aca22238946e4bb95a622232e555d8287590bc88bdab5f5144f874544",
+      "renderedAt": "2026-02-23T02:38:45.137Z",
+      "file": "public/frames/frame-094.png",
+      "promptSnippet": "Close-up of Mara's face, eyes shining with anger and grief, caught between a lau..."
+    },
+    "frame-095": {
+      "hash": "1391302d94e68e99cff44b01b906a5b374f3bab92ec6f9d070d209bf6f6840c6",
+      "renderedAt": "2026-02-23T02:39:39.298Z",
+      "file": "public/frames/frame-095.png",
+      "promptSnippet": "Medium shot. Mara sits alone at the workbench late at night, laptop open, blue s..."
+    },
+    "frame-096": {
+      "hash": "748119ebe2c9c66875aa9dc0fd7bb8b60b9f66a5f6f85521d6250abb3b2fb99a",
+      "renderedAt": "2026-02-23T02:40:40.029Z",
+      "file": "public/frames/frame-096.png",
+      "promptSnippet": "Extreme close-up of Mara's fingers on a keyboard, shaking slightly. The screen r..."
+    },
+    "frame-097": {
+      "hash": "4f3fcd7ecb3f14fddc3f6990b0a82b1cbea3d1e8fea2c9fb4376997cfe00c7a9",
+      "renderedAt": "2026-02-23T02:41:28.518Z",
+      "file": "public/frames/frame-097.png",
+      "promptSnippet": "Montage panel. Top strip: a sleek chat interface — 'Hi, I'm Lens. What's your in..."
+    },
+    "frame-098": {
+      "hash": "f1217253e22e12886f93284a5d2eb12e64fc3b633062f7556bc315d0778e7f07",
+      "renderedAt": "2026-02-23T02:42:23.284Z",
+      "file": "public/frames/frame-098.png",
+      "promptSnippet": "Medium shot. Mara watches a dashboard on her laptop, face lit by screen glow lik..."
+    },
+    "frame-099": {
+      "hash": "a7e9909261e03c75dc341239345b9a5a62ff6f90d6fdfec1917abc84c0752034",
+      "renderedAt": "2026-02-23T02:43:16.040Z",
+      "file": "public/frames/frame-099.png",
+      "promptSnippet": "Montage strip. Top: Arthur smiling at his phone more often, face bathed in scree..."
+    },
+    "frame-100": {
+      "hash": "c3d348cc8dbee851f81956b1812aba982982a1c06d518f4796720ee41ef6bea8",
+      "renderedAt": "2026-02-23T02:44:10.395Z",
+      "file": "public/frames/frame-100.png",
+      "promptSnippet": "Medium shot. Arthur sits at his kitchen table at night, phone propped up like a ..."
+    },
+    "frame-101": {
+      "hash": "094d8c5f051d65f891e0dbab68b11e85461b40211e2d11dffbb591883d25197e",
+      "renderedAt": "2026-02-23T02:45:01.965Z",
+      "file": "public/frames/frame-101.png",
+      "promptSnippet": "Close-up of Arthur's finger pressing SEND on a message he didn't write. His face..."
+    },
+    "frame-102": {
+      "hash": "0ece763503a8654ba42b260beec2f17fa1b98324efcf57bea67b31394f851fc9",
+      "renderedAt": "2026-02-23T02:45:57.320Z",
+      "file": "public/frames/frame-102.png",
+      "promptSnippet": "Medium shot. Mara stands in Arthur's doorway, watching him at his phone. Her sto..."
+    },
+    "frame-103": {
+      "hash": "6ad2c35fff9e6e735fa1e3aa837860c0ae53ee19cbae584cb28eb0ed90b01069",
+      "renderedAt": "2026-02-23T02:46:57.803Z",
+      "file": "public/frames/frame-103.png",
+      "promptSnippet": "Wide shot. Arthur lies awake in bed in the dark, phone held above his face, scre..."
+    },
+    "frame-104": {
+      "hash": "853355c84fddeab39c7707358301fc933bcfe4077f4bb0834199b6fb3c1a3e12",
+      "renderedAt": "2026-02-23T02:47:47.917Z",
+      "file": "public/frames/frame-104.png",
+      "promptSnippet": "Close-up of Mara's hand touching a hallway wall, steadying herself. Her face is ..."
+    },
+    "frame-105": {
+      "hash": "4afa55bec9ec3211c1b4421dfc0f63adb2f14d29f0b1f3af96bc446b21ed8a60",
+      "renderedAt": "2026-02-23T02:48:42.652Z",
+      "file": "public/frames/frame-105.png",
+      "promptSnippet": "Medium shot. Mara sits alone at the workbench, laptop open to a dashboard. Numbe..."
+    },
+    "frame-106": {
+      "hash": "3211bde3ed8aeb42db699fd9d00b28969e4fda44129b7c10d4d7ab0533f1290a",
+      "renderedAt": "2026-02-23T02:49:51.854Z",
+      "file": "public/frames/frame-106.png",
+      "promptSnippet": "Close-up of the laptop screen showing a Reality Receipt log: 'sleep down', 'scre..."
+    },
+    "frame-107": {
+      "hash": "b56810941c7982cc8bd047eade8612a26ac74df29b1a1310a2393f5e6be497af",
+      "renderedAt": "2026-02-23T02:50:47.328Z",
+      "file": "public/frames/frame-107.png",
+      "promptSnippet": "Medium two-shot. Elias enters the dark studio and sees Mara's face. He understan..."
+    },
+    "frame-108": {
+      "hash": "155e91384ffee50634c0f13bb74ac804b430012e20900d31157cb3ec3740ad8a",
+      "renderedAt": "2026-02-23T02:51:56.516Z",
+      "file": "public/frames/frame-108.png",
+      "promptSnippet": "Close-up of Mara's face, tears falling, mouth open in anguish. The screen glow c..."
+    },
+    "frame-109": {
+      "hash": "45d5b9f5e6d7bdc09cc8d3d0a24305afaac76cd6f9420be5d08ad821a1951d2d",
+      "renderedAt": "2026-02-23T02:52:52.395Z",
+      "file": "public/frames/frame-109.png",
+      "promptSnippet": "Medium shot. Elias stands, picking up his jacket. His eyes are wet too. Mara sta..."
+    },
+    "frame-110": {
+      "hash": "f14b4379bb825017c178eaeefa9e2e8e19da207d30b3b61ff0c10e62b7c4121a",
+      "renderedAt": "2026-02-23T02:53:49.487Z",
+      "file": "public/frames/frame-110.png",
+      "promptSnippet": "Medium shot. Elias pauses at the door, looking back at Mara. Love, grief, resolv..."
+    },
+    "frame-111": {
+      "hash": "ad65739dc4ff174f94ed2c9a31c249d0e573f2d5c75aa32c24f54231e1c27fb7",
+      "renderedAt": "2026-02-23T02:54:56.035Z",
+      "file": "public/frames/frame-111.png",
+      "promptSnippet": "Close-up of Mara's face in near-darkness, barely able to speak. Her lips form th..."
+    },
+    "frame-112": {
+      "hash": "be334baa739a2db6bbcee67e7894b2076cb3ad025e5014b84eee1a8237d1b4ca",
+      "renderedAt": "2026-02-23T02:56:06.127Z",
+      "file": "public/frames/frame-112.png",
+      "promptSnippet": "Wide shot. Mara stands alone under a single harsh streetlight on an empty sidewa..."
+    },
+    "frame-113": {
+      "hash": "03f8b7aed2788f56f90b4e4285bb948b03404373b8e4ca8f4b4b8ecc9928de86",
+      "renderedAt": "2026-02-23T02:57:00.039Z",
+      "file": "public/frames/frame-113.png",
+      "promptSnippet": "Close-up of Mara's trembling hand in the harsh streetlight. Her phone buzzes fai..."
+    },
+    "frame-114": {
+      "hash": "ab14507f82544b52a0968b78a8ac508a392c6049d7d8280ad12b992b876be47e",
+      "renderedAt": "2026-02-23T02:58:05.104Z",
+      "file": "public/frames/frame-114.png",
+      "promptSnippet": "Wide shot. Mara alone under the streetlight, small figure in a vast dark composi..."
+    },
+    "frame-115": {
+      "hash": "94704e1459422b364425ef723c6fd80c958475c7d6ca3f4327bec2c1e281809d",
+      "renderedAt": "2026-02-23T02:58:57.586Z",
+      "file": "public/frames/frame-115.png",
+      "promptSnippet": "Medium close-up. Mara sits alone at a workbench in a dim workshop, staring at he..."
+    },
+    "frame-116": {
+      "hash": "20f791a782411c6ddfdb2d91ceaa0309defd1413818417c15be6779eb48a0c39",
+      "renderedAt": "2026-02-23T02:59:54.181Z",
+      "file": "public/frames/frame-116.png",
+      "promptSnippet": "Close-up of Mara's hands resting open on a worn wooden workbench. A phone lies f..."
+    },
+    "frame-117": {
+      "hash": "209dd755ea76f211a032e449f113a8bef8a38be58e2add1016f233b039fce572",
+      "renderedAt": "2026-02-23T03:01:08.550Z",
+      "file": "public/frames/frame-117.png",
+      "promptSnippet": "Wide shot. A lone figure walks down a deserted pre-dawn city street. Delivery tr..."
+    },
+    "frame-118": {
+      "hash": "fd3028527496ee7360f72813ded2c8404f753aa78349753582835ca6967fd74f",
+      "renderedAt": "2026-02-23T03:02:15.021Z",
+      "file": "public/frames/frame-118.png",
+      "promptSnippet": "Close-up of a woman's hand holding a phone. The screen shows a brief flash of li..."
+    },
+    "frame-119": {
+      "hash": "04294f46bac8b708ce1f4fe388ebbc89aafd311a1cb3b4b101cab3078d78eb8f",
+      "renderedAt": "2026-02-23T03:03:26.104Z",
+      "file": "public/frames/frame-119.png",
+      "promptSnippet": "Medium shot. A woman sits on the floor of a sparse apartment, holding a dusty ac..."
+    },
+    "frame-120": {
+      "hash": "478e5f1c5167750806bf7db9b67d54946d1b530c1039a66641d5fde936e536a5",
+      "renderedAt": "2026-02-23T03:04:21.071Z",
+      "file": "public/frames/frame-120.png",
+      "promptSnippet": "Close-up of a woman's hand setting down an acoustic guitar gently on a wooden fl..."
+    },
+    "frame-121": {
+      "hash": "32a8b11f90a56d4e0672272ef82648cfce387713f6c411e7d2d52667a84c3a37",
+      "renderedAt": "2026-02-23T03:05:19.048Z",
+      "file": "public/frames/frame-121.png",
+      "promptSnippet": "Medium shot from above. A woman leans over a workbench, writing intensely in a n..."
+    },
+    "frame-122": {
+      "hash": "06441fb148a43cc6310a07f41c9eb8d1153e6ac78e9c7934fd541bfb562d636f",
+      "renderedAt": "2026-02-23T03:06:31.195Z",
+      "file": "public/frames/frame-122.png",
+      "promptSnippet": "Medium close-up. A woman speaks to a small dark pebble-like device on a workbenc..."
+    },
+    "frame-123": {
+      "hash": "1f597662a0fabe71cccdc647be7ba705b24f0388b2463816bae06e5e50f1592c",
+      "renderedAt": "2026-02-23T03:07:25.555Z",
+      "file": "public/frames/frame-123.png",
+      "promptSnippet": "Medium shot. An older man in his 60s sits at a simple kitchen table, phone in ha..."
+    },
+    "frame-124": {
+      "hash": "185bfcda0f926eea29c51c9a99d1720c894c8c722b801a9ead20c05d612ad1f6",
+      "renderedAt": "2026-02-23T03:08:38.854Z",
+      "file": "public/frames/frame-124.png",
+      "promptSnippet": "Medium shot. An older man in his 60s sets a phone face-down on a kitchen table a..."
+    },
+    "frame-125": {
+      "hash": "f72abd7f1a7eaeb98792d53e10418783a62b6985c92b1faee66ac0ca490eef98",
+      "renderedAt": "2026-02-23T03:09:34.565Z",
+      "file": "public/frames/frame-125.png",
+      "promptSnippet": "Medium shot. A woman with short dark hair stands at the head of a conference tab..."
+    },
+    "frame-126": {
+      "hash": "9edec4cf4d7be6e16eb9d63e9fd44d8d9b0c8dd20a67aa2b2f596a126d26b411",
+      "renderedAt": "2026-02-23T03:10:46.485Z",
+      "file": "public/frames/frame-126.png",
+      "promptSnippet": "Close-up of a single sheet of paper on a dark conference table, with a woman's h..."
+    },
+    "frame-127": {
+      "hash": "33d02de5728a7f592379263dd7e3aad9cb5f45bda6bc26604ab8e59899c7c1ee",
+      "renderedAt": "2026-02-23T03:11:48.336Z",
+      "file": "public/frames/frame-127.png",
+      "promptSnippet": "Wide montage panel divided into layered vignettes. Top: a small business owner a..."
+    },
+    "frame-128": {
+      "hash": "dae6f00200b4ad5d9eef12f0ee456ef6f4ed34f18b0d49f27c415133b5c3febd",
+      "renderedAt": "2026-02-23T03:12:41.635Z",
+      "file": "public/frames/frame-128.png",
+      "promptSnippet": "Close-up of hands exchanging a small printed receipt across a counter. The recei..."
+    },
+    "frame-129": {
+      "hash": "b766df5b1649629851f79daaa1eddf92706b0926e7eb101f216d7e3403f6bcd7",
+      "renderedAt": "2026-02-23T03:13:36.689Z",
+      "file": "public/frames/frame-129.png",
+      "promptSnippet": "Medium shot. A tall, composed woman in dark tailored clothing stands alone in a ..."
+    },
+    "frame-130": {
+      "hash": "41be922032701541b37f1a11873960c670dc242185ac60acbfb3e45b329581b2",
+      "renderedAt": "2026-02-23T03:14:30.111Z",
+      "file": "public/frames/frame-130.png",
+      "promptSnippet": "Medium close-up. A tall woman with hair pulled back sits at her desk, face contr..."
+    },
+    "frame-131": {
+      "hash": "8b34958d56cd6bd63b7eadc355994f80d9e861c34894e9c5a8ea03e3c3b97926",
+      "renderedAt": "2026-02-23T03:15:28.551Z",
+      "file": "public/frames/frame-131.png",
+      "promptSnippet": "Medium shot. A woman with short dark hair sits alone at an outdoor cafe table. N..."
+    },
+    "frame-132": {
+      "hash": "f4207057f6f04802be3b0b0efa8c63252bbf75f9084c4939d4db1ebb51213d35",
+      "renderedAt": "2026-02-23T03:16:24.126Z",
+      "file": "public/frames/frame-132.png",
+      "promptSnippet": "Close-up of a woman's hand writing in a notebook. The words 'PRACTICE IS THE PRO..."
+    },
+    "frame-133": {
+      "hash": "ff91e3a21d68cb36606a1247f29334b044077347eaf97ed02bd383bcb4b6af7a",
+      "renderedAt": "2026-02-23T03:17:23.335Z",
+      "file": "public/frames/frame-133.png",
+      "promptSnippet": "Medium shot. A man in his early 40s with warm brown skin and close-cropped hair ..."
+    },
+    "frame-134": {
+      "hash": "f5da7eaa544c96359a2c1834a3b74867ffbf99dd25b8fe8e5dca3bd07f086c10",
+      "renderedAt": "2026-02-23T03:18:23.629Z",
+      "file": "public/frames/frame-134.png",
+      "promptSnippet": "Two-shot. A woman with short dark hair and a man in earth-toned linen face each ..."
+    },
+    "frame-135": {
+      "hash": "ce471cc2db3c7a6bf350ea6bf0b589d2b54e8c6fb44dff3591046196f759be78",
+      "renderedAt": "2026-02-23T03:19:38.479Z",
+      "file": "public/frames/frame-135.png",
+      "promptSnippet": "Close-up of two pairs of hands putting groceries away on a wooden shelf — one pa..."
+    },
+    "frame-136": {
+      "hash": "cb37a539e7ab84a59df88bca28b510efe56f9345588e64b1e55e7dcf3fcd021a",
+      "renderedAt": "2026-02-23T03:20:32.626Z",
+      "file": "public/frames/frame-136.png",
+      "promptSnippet": "Wide shot. Two figures stand on a rooftop overlooking a city at dawn. The city b..."
+    },
+    "frame-137": {
+      "hash": "e98734cd247caf68de6b696dd797dafa851e1b956e4cb13c75a928523e891947",
+      "renderedAt": "2026-02-23T03:21:30.142Z",
+      "file": "public/frames/frame-137.png",
+      "promptSnippet": "Medium close-up. A woman with short dark hair looks toward the horizon, face lit..."
+    },
+    "frame-138": {
+      "hash": "d94c172fc977b67a666e096b829c84ec196092a80a54e162f34bec8e246d66bb",
+      "renderedAt": "2026-02-23T03:22:28.122Z",
+      "file": "public/frames/frame-138.png",
+      "promptSnippet": "Medium close-up. A woman smiles — not at a device, at the sky. Her face is lit b..."
+    }
+  }
+}

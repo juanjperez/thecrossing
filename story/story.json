@@ -1,0 +1,4340 @@
+{
+  "title": "The Crossing",
+  "version": "1.0.0",
+  "metadata": {
+    "author": "The Crossing Project",
+    "artStyle": "Graphic novel, dark ink washes, muted earth tones",
+    "aspectRatio": "1024x1536"
+  },
+  "frames": [
+    {
+      "id": "splash",
+      "type": "splash",
+      "sequence": 0,
+      "prompt": "Wide shot. A lone figure stands at the edge of a vast canyon at dusk, silhouetted against a fading sky. The title THE CROSSING is etched across the sky in weathered hand-drawn serif letters, carved and ancient, as if part of the landscape itself. Deep twilight lighting, pale amber horizon bleeding into deep indigo. Solitude, weight, threshold. Graphic novel style, dark ink washes, muted earth tones and dusky blues.",
+      "caption": null,
+      "narrative": "Title card. Establishes tone — a lone traveler at the boundary between worlds. The title feels carved into the world itself, not overlaid on it.",
+      "chapter": null,
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": []
+    },
+    {
+      "id": "frame-001",
+      "type": "panel",
+      "sequence": 1,
+      "prompt": "High angle shot. A river of commuters flows through a narrow downtown corridor, everyone carrying screens — phones, glasses, earbuds. Their bodies move with practiced efficiency but their eyes are vacant and scanning. Harsh morning daylight filtered through glass towers. Cold, automated, relentless rhythm. Graphic novel style, dark ink washes, steel blues and cool grays with harsh fluorescent whites.",
+      "caption": null,
+      "narrative": "Scene 1 opens. The old world: a river of people moving with mechanical precision, connected to devices, disconnected from each other.",
+      "chapter": "Act I",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A river of people flows through a downtown corridor. Everyone carries a screen."
+        },
+        {
+          "type": "narration",
+          "text": "Their bodies move with practiced efficiency. Their eyes don't."
+        }
+      ]
+    },
+    {
+      "id": "frame-002",
+      "type": "panel",
+      "sequence": 2,
+      "prompt": "Medium close-up. An old man sits on a bench among the rushing crowd, empty hands in his lap, eyes closed. He inhales deeply — a full breath. The crowd blurs around him. Cool ambient daylight with faint screen glow from passing pedestrians. A single moment of stillness in a torrent of motion. Graphic novel style, dark ink washes, steel blues and cool grays, black ink.",
+      "caption": "It looks almost illegal.",
+      "narrative": "The old man takes a full breath among the flow of distracted people. This tiny act of presence feels transgressive in this world.",
+      "chapter": "Act I",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "An old man sits on a bench with empty hands, empty eyes. Then he inhales. A full breath."
+        },
+        {
+          "type": "narration",
+          "text": "It looks almost illegal."
+        },
+        {
+          "type": "narration",
+          "text": "The flow swallows him again."
+        }
+      ]
+    },
+    {
+      "id": "frame-003",
+      "type": "panel",
+      "sequence": 3,
+      "prompt": "Wide shot. Mara Vega stands at a podium on a vast stage, crisp dark suit, calm posture. An enormous screen behind her displays a chat interface with a friendly assistant icon. The KINGDOM logo glows above. Audience silhouettes fill the foreground. Cool fluorescent and screen-glow lighting, blue-white tones. Corporate tension, performance masking emptiness. Graphic novel style, dark ink washes, steel blues and cool grays.",
+      "caption": "We built KINGDOM to remove friction from work. But friction isn't the problem.",
+      "narrative": "Scene 2. Mara's keynote — she commands the room, but her eyes are slightly distant, watching herself perform from the back row.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A vast auditorium. On stage: Mara Vega. Crisp suit, calm posture, eyes that have practiced this."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We built KINGDOM to remove friction from work. But friction isn't the problem."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "The problem is cognitive load. Context. The endless switching. The invisible tax on attention."
+        }
+      ]
+    },
+    {
+      "id": "frame-004",
+      "type": "panel",
+      "sequence": 4,
+      "prompt": "Medium shot. Mara gestures toward the enormous screen as a live demo plays — a report generated, a meeting scheduled, an email drafted. Clean interface animations glow behind her. Her hands move like choreography. Screen-glow lighting reflecting off her face, blue-white and clinical. Polished, seamless, inhuman perfection. Graphic novel style, dark ink washes, steel blues, cool grays, harsh fluorescent whites.",
+      "caption": "This isn't an add-on. It's the future of work.",
+      "narrative": "The demo is fast, clean, beautiful. The audience erupts. Mara's performance is flawless — her hands, her voice, her choreographed gestures. But we see the distance in her eyes.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara gestures and the screen blooms with a chat interface. A live demo plays: a report generated, a meeting scheduled, an email drafted."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Introducing KINGDOM ASSIST -- integrated everywhere. Ask once. It understands your tools, your files, your calendar, your team."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "This isn't an add-on. It's the future of work."
+        }
+      ]
+    },
+    {
+      "id": "frame-005",
+      "type": "panel",
+      "sequence": 5,
+      "prompt": "Low angle shot looking up at Mara on stage as the audience rises to their feet in standing ovation. Mara nods with professional gratitude, silhouetted against the massive glowing KINGDOM screen. Blue-white screen glow from behind, dark auditorium, figures rising in shadow. Triumph that feels hollow. Graphic novel style, dark ink washes, steel blues, black ink, harsh white screen glow.",
+      "caption": null,
+      "narrative": "Standing ovation. Mara nods, grateful in the way a professional is grateful — practiced, not felt. The screen towers over her like a cathedral window.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Standing ovation. Mara nods, grateful in the way a professional is grateful."
+        },
+        {
+          "type": "narration",
+          "text": "Her eyes are slightly distant, like she's watching herself perform from the back row."
+        }
+      ]
+    },
+    {
+      "id": "frame-006",
+      "type": "panel",
+      "sequence": 6,
+      "prompt": "Medium close-up. Mara stands alone before a mirror in a quiet backstage green room. Her smile has drained away, revealing a faint tremor in her jaw — micro-fatigue. Her phone vibrates on the counter beside her. Soft overhead fluorescent lighting, cold and isolating. Exhaustion behind a cracking mask. Graphic novel style, dark ink washes, steel blues and cool grays, black ink.",
+      "caption": null,
+      "narrative": "Scene 3. The mask drops. Backstage, alone, Mara exhales like she's been holding her breath for hours. The phone buzzes endlessly but she turns it face down.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The applause is muffled now. A quiet room. A mirror."
+        },
+        {
+          "type": "action",
+          "text": "Mara exhales like she's been holding her breath for hours. Her phone vibrates nonstop on the counter. She turns it face down."
+        },
+        {
+          "type": "narration",
+          "text": "The smile drains. A faint tremor in her jaw -- micro-fatigue."
+        }
+      ]
+    },
+    {
+      "id": "frame-007",
+      "type": "panel",
+      "sequence": 7,
+      "prompt": "Close-up of Mara's hands under a running faucet, water dripping down her wrists. The mirror reflects her blurred face behind. Cool fluorescent overhead light catches the water. Quiet, fragile, stolen moment of sensory presence. Graphic novel style, dark ink washes, steel blues, cool grays, black ink. Shallow focus on hands and water.",
+      "caption": "For a moment, she just listens to water.",
+      "narrative": "Mara splashes water, watches it drip. A tiny act of embodiment — listening to water instead of notifications. Then the phone buzzes again, louder in her mind than in the room.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "She runs the faucet. Splashes water. Watches it drip down her wrists."
+        },
+        {
+          "type": "narration",
+          "text": "For a moment, she just listens to water."
+        },
+        {
+          "type": "narration",
+          "text": "Then the phone buzzes again -- louder in her mind than in the room."
+        }
+      ]
+    },
+    {
+      "id": "frame-008",
+      "type": "panel",
+      "sequence": 8,
+      "prompt": "Wide shot. A glass-walled executive boardroom with an impossible city view — the city looks like a model below. Celeste Rowan stands at the head of the table, composed and sharp, surrounded by executives and glowing screens showing LAUNCH DAY PERFORMANCE data. Cool fluorescent overhead and screen glow. Institutional power, strategic tension. Graphic novel style, dark ink washes, steel blues, cool grays, harsh fluorescent whites, black ink.",
+      "caption": null,
+      "narrative": "Scene 4. The boardroom — Celeste commands the room like a general. The city below looks like a circuit board. Screens show engagement up, churn down, but competitors are already cloning.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A glass boardroom with an impossible view. The city looks like a model."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "And competitors?"
+        },
+        {
+          "type": "narration",
+          "text": "Dozens of logos. New assistants launching. Some are clones. Some are worse. Some are cheaper. They're fast."
+        }
+      ]
+    },
+    {
+      "id": "frame-009",
+      "type": "panel",
+      "sequence": 9,
+      "prompt": "Medium two-shot. Celeste raises a hand, final but not rude, cutting Mara off mid-sentence. Mara sits with hands folded, face neutral but eyes steady. A slide behind them reads DEFENSIVE STRATEGY: CLONE WAVE. Screen glow on their faces, blue-white. The collision of pragmatism and principle. Graphic novel style, dark ink washes, steel blues, cool grays, black ink.",
+      "caption": "Speed doesn't create depth.",
+      "narrative": "The philosophical divide: Mara pushes back — speed doesn't create depth. Celeste counters — depth doesn't save a million users. The Clone Wave strategy lands like a prayer and a threat.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "This is the new normal. Infinite output. Infinite alternatives. So we move faster."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Speed doesn't create depth."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "Depth doesn't save a million users. Distribution does."
+        },
+        {
+          "type": "narration",
+          "text": "A slide appears: DEFENSIVE STRATEGY: CLONE WAVE. 'Stability' lands like a prayer and a threat."
+        }
+      ]
+    },
+    {
+      "id": "frame-010",
+      "type": "panel",
+      "sequence": 10,
+      "prompt": "Medium shot. Mara stands at a kitchen counter eating from a container, not sitting. Her laptop is open beside her, its screen glowing with Slack messages, emails, and graphs. In the background corner, a dusty guitar leans untouched against the wall. Cold screen glow on her face, minimal apartment lighting. Emptiness disguised as efficiency. Graphic novel style, dark ink washes, steel blues, cool grays, sickly green-blue screen glow, black ink.",
+      "caption": null,
+      "narrative": "Scene 5. Mara's apartment — too clean, too minimal. She eats standing, types while chewing. The guitar in the corner belongs to someone she used to be.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara's apartment. Minimal. Clean. Too clean. She stands at the counter eating without sitting, typing while chewing."
+        },
+        {
+          "type": "narration",
+          "text": "Her gaze drifts to a corner where a guitar leans against the wall, untouched. Dusty. She looks at it like it belongs to someone else."
+        },
+        {
+          "type": "narration",
+          "text": "The guitar stays silent."
+        }
+      ]
+    },
+    {
+      "id": "frame-011",
+      "type": "panel",
+      "sequence": 11,
+      "prompt": "Close-up of Mara's face lit by her phone screen in the dark, eyes showing existential nausea — not anger, something deeper. The phone displays a muted clip of her keynote playing beside a competitor's clone. Harsh blue-white screen glow against darkness. The moment work becomes commodity. Graphic novel style, dark ink washes, steel blues, sickly green-blue screen glow, deep black shadows.",
+      "caption": "Her words in someone else's mouth.",
+      "narrative": "Scene 6. Headlines flash — clones launching, features copied. Mara watches her keynote next to a competitor's identical product. Her face shows existential nausea, not anger.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Headlines flash. Startups shipping full suites in 48 hours. Another one. Another one."
+        },
+        {
+          "type": "narration",
+          "text": "Her keynote plays in a muted clip next to a competitor's clone. Her words in someone else's mouth."
+        },
+        {
+          "type": "narration",
+          "text": "She watches her work become commodity. Her face doesn't show anger. It shows something deeper: an existential nausea."
+        }
+      ]
+    },
+    {
+      "id": "frame-012",
+      "type": "panel",
+      "sequence": 12,
+      "prompt": "Close-up of a phone lock screen showing a photo of Mara and Elias years ago — laughing hard, sunburned, outdoors. The warm photo contrasts against the dark room around it. Faint screen glow, the only light source. Nostalgia aching against a cold present. Graphic novel style, dark ink washes, the photo warm amber and ochre, surrounding frame deep steel blue and black.",
+      "caption": null,
+      "narrative": "Mara locks the phone and the lock screen reveals an old photo — her and Elias, laughing outdoors. She stares at it longer than she intended. Then the phone buzzes again.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "She locks the phone. The lock screen is a photo -- Mara and Elias, years ago, laughing hard, sunburned, outdoors."
+        },
+        {
+          "type": "narration",
+          "text": "She stares at it longer than she intended."
+        },
+        {
+          "type": "narration",
+          "text": "Then the phone buzzes again. She puts it down like it's hot."
+        }
+      ]
+    },
+    {
+      "id": "frame-013",
+      "type": "panel",
+      "sequence": 13,
+      "prompt": "Wide shot. A fluorescent-lit war room packed with people and screens — retention curves, heat maps, real-time dashboards covering every wall. Celeste stands at the center like a general. Mara sits quietly at the edge, small in the frame. Harsh fluorescent overhead lighting, screen glow everywhere. Oppressive information density. Graphic novel style, dark ink washes, steel blues, cool grays, harsh fluorescent whites, black ink.",
+      "caption": null,
+      "narrative": "Scene 7. The war room — screens everywhere, Celeste commanding, Mara absorbing. The Clone Wave strategy unfolds: hundreds of vertical variants, thousands of templates.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A fluorescent room packed with people and screens. Retention curves. Heat maps. Real-time dashboards."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "We can't be one product in a sea of alternatives. Hundreds of vertical variants. Thousands of templates. We become everywhere."
+        },
+        {
+          "type": "narration",
+          "text": "A low murmur of approval. Relief."
+        }
+      ]
+    },
+    {
+      "id": "frame-014",
+      "type": "panel",
+      "sequence": 14,
+      "prompt": "Medium close-up. Mara leans forward at the war room table, gesturing vaguely at the screens and the exhausted postures around her. No one follows her gesture — they are all looking at the dashboard. Celeste watches her with an expression that is almost kind. Fluorescent and screen-glow lighting. A question no one can hear. Graphic novel style, dark ink washes, steel blues, cool grays, black ink.",
+      "caption": "And what does it do to people?",
+      "narrative": "Mara asks the question no one else is asking. The room pauses, confused. Celeste softens — 'We don't get to choose the era.' Something in Mara shifts, quiet and irreversible.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "And what does it do to people?"
+        },
+        {
+          "type": "narration",
+          "text": "The room pauses, confused by the question. No one follows her gesture. They're looking at the dashboard."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "Mara. We don't get to choose the era. We only get to keep it from collapsing."
+        },
+        {
+          "type": "narration",
+          "text": "Something in her shifts, quiet and irreversible."
+        }
+      ]
+    },
+    {
+      "id": "frame-015",
+      "type": "panel",
+      "sequence": 15,
+      "prompt": "Medium shot. A young man sits on a city curb with his shoes off, bare feet on concrete, eyes closed. He is simply present — not performing, not meditating theatrically. Mara stands at the crosswalk in the background watching him, frozen among the rushing crowd. Natural daylight, urban noise implied. A magic trick of presence. Graphic novel style, dark ink washes, steel blues and cool grays with hints of warmer daylight.",
+      "caption": null,
+      "narrative": "Scene 8. Mara walks alone through real air. She sees a young man barefoot on the curb, eyes closed, simply present. She watches him like he's performing a magic trick. The walk signal flashes — she crosses, pulled by the flow.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara walks alone, away from KINGDOM's glass. Noise. Wind. Real air."
+        },
+        {
+          "type": "narration",
+          "text": "A young man sits on the curb with his shoes off, feet on the concrete, eyes closed. He's not meditating theatrically. He's just present."
+        },
+        {
+          "type": "narration",
+          "text": "Mara watches him like he's performing a magic trick. The walk signal flashes. She crosses -- pulled by the flow."
+        }
+      ]
+    },
+    {
+      "id": "frame-016",
+      "type": "panel",
+      "sequence": 16,
+      "prompt": "Over-shoulder shot from the backseat of a car. Mara's phone screen shows a text message: 'Come by. No agenda. —Elias.' The city blurs past the car window behind the phone. Soft diffused daylight through car window, screen glow on her hands. Relief arriving unexpectedly. Graphic novel style, dark ink washes, steel blues softening slightly, cool grays.",
+      "caption": "Come by. No agenda. —Elias",
+      "narrative": "Scene 9. In the car, Mara receives Elias' message. She types, deletes, types again. Finally: 'Where?' She gives the driver an address and exhales, surprised by the relief.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "In the backseat. City sliding by. Her phone buzzes with a message from an unknown number."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Come by. No agenda."
+        },
+        {
+          "type": "action",
+          "text": "Mara types, deletes, types again. Finally: 'Where?' Immediate reply: 'Same place.'"
+        },
+        {
+          "type": "narration",
+          "text": "Mara exhales, surprised by the relief."
+        }
+      ]
+    },
+    {
+      "id": "frame-017",
+      "type": "panel",
+      "sequence": 17,
+      "prompt": "Medium shot. A simple door in a converted warehouse building in a quiet neighborhood. No signage, no branding. Warm amber light leaks from the door seam. Mara's hand hesitates on the handle. Late afternoon daylight mixing with warm light from inside. A threshold — the old world behind, something unknown ahead. Graphic novel style, dark ink washes, steel blues of the street yielding to warm amber light at the door seam.",
+      "caption": null,
+      "narrative": "Scene 10. Elias' building — no branding, no signage. Warm light leaks from the door seam. Mara hesitates, hand on the handle. The buzz of her phone feels distant. She pushes in.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A converted warehouse in a quieter neighborhood. No signage. No branding."
+        },
+        {
+          "type": "narration",
+          "text": "A simple door. Warm light leaks from the seam."
+        },
+        {
+          "type": "action",
+          "text": "Mara hesitates, hand on the handle. The buzz of her phone feels distant. She pushes in."
+        }
+      ]
+    },
+    {
+      "id": "frame-018",
+      "type": "panel",
+      "sequence": 18,
+      "prompt": "Wide shot. A calm, wide room with soft lamp light, green plants, and abstract paintings on the walls. People sit in loose circles — some eyes closed, some talking quietly, some just breathing. The space is unhurried and warm. Warm amber and soft ochre lighting from lamps and windows. Presence, gentleness, relief. Graphic novel style, dark ink washes, warm amber, soft ochre, candlelight warmth.",
+      "caption": null,
+      "narrative": "Scene 11. Elias' space — the first color relief. Soft light, plants, paintings like maps to somewhere internal. People sit in loose circles, breathing like it matters. Not culty, not performative — simply unhurried.",
+      "chapter": "Act I",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A wide, calm room. Soft light. Plants. Paintings like maps to somewhere internal."
+        },
+        {
+          "type": "narration",
+          "text": "People sit in loose circles. Some eyes closed. Some talking quietly. Some just breathing."
+        },
+        {
+          "type": "narration",
+          "text": "It's not culty. It's not performative. It's simply unhurried."
+        }
+      ]
+    },
+    {
+      "id": "frame-019",
+      "type": "panel",
+      "sequence": 19,
+      "prompt": "Medium two-shot. Elias Ren crosses the room toward Mara. They lock eyes. Elias has a real smile — warm brown skin, close-cropped hair, calm face, soft earth-toned linen clothes. Mara still wears her crisp dark suit, arms slightly guarded. Warm lamp light, amber and ochre tones. Old friendship recognizing itself. Graphic novel style, dark ink washes, warm amber and soft ochre. Balanced frame — two figures, connection.",
+      "caption": "You came.",
+      "narrative": "Elias and Mara lock eyes. A real smile. 'You came.' 'I had a gap.' He laughs softly — he knows her.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias crosses the room. They lock eyes. A smile -- real."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You came."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I had a gap."
+        },
+        {
+          "type": "narration",
+          "text": "He laughs softly. He knows her."
+        }
+      ]
+    },
+    {
+      "id": "frame-020",
+      "type": "panel",
+      "sequence": 20,
+      "prompt": "Medium shot. Mara and Elias sit across from each other in a small room off the main space. A glass of water between them on a simple table. A workbench with tools visible behind Elias. A laptop sits closed. The silence is comfortable. Warm lamp light, soft amber. Intimacy without pressure. Graphic novel style, dark ink washes, warm amber, soft ochre.",
+      "caption": null,
+      "narrative": "Scene 12. A small side room — workbench, tools, a closed laptop. They sit with water between them. A moment of silence that isn't awkward.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A small room off the main space. A workbench. Tools. A laptop closed. Water between them."
+        },
+        {
+          "type": "narration",
+          "text": "A moment of silence that isn't awkward."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "No agenda. Promise."
+        }
+      ]
+    },
+    {
+      "id": "frame-021",
+      "type": "panel",
+      "sequence": 21,
+      "prompt": "Medium close-up. Elias watches Mara with patience as she looks away, throat tightening, swallowing something down. Her professional armor is cracking. Warm lamp light, gentle shadows. Vulnerability surfacing against her will. Graphic novel style, dark ink washes, warm amber, soft ochre. Focus on Mara's face, eyes carrying the story.",
+      "caption": "How are you, Mara?",
+      "narrative": "'I'm successful,' Mara says. Elias watches with patience. 'That wasn't the question.' Mara looks away, throat tight — she deflects to asking about this place. 'A room where people remember they have bodies.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "How are you, Mara?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I don't know. I'm... successful."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "That wasn't the question."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "What is this place?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "A room where people remember they have bodies."
+        }
+      ]
+    },
+    {
+      "id": "frame-022",
+      "type": "panel",
+      "sequence": 22,
+      "prompt": "Close-up of Elias' hands at a workbench, holding a small pebble-like device — smooth, dark, unassuming, like a river stone. Tools and components surround it on the bench. His hands are capable, touching the device gently. Warm lamp light, amber tones. A quiet thing, handmade and intentional. Graphic novel style, dark ink washes, warm amber, soft ochre. Shallow focus on hands and device.",
+      "caption": "I call it Lens.",
+      "narrative": "Scene 13. Elias moves to the workbench and picks up a small pebble-like device. 'Is it a product?' 'Not exactly.' 'Is there a UI?' 'That's the first symptom.' He introduces Lens — a way of seeing without staring.",
+      "chapter": "Act I",
+      "characters": [
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias moves to the workbench and picks up a small device -- could be a pebble-like wearable, something unassuming."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Is there a UI?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "That's the first symptom."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "I call it Lens. A way of seeing without staring."
+        }
+      ]
+    },
+    {
+      "id": "frame-023",
+      "type": "panel",
+      "sequence": 23,
+      "prompt": "Medium two-shot. Elias and Mara sit at a small table with two chairs. Elias' phone lies face down on the table. The small pebble device rests between them. Mara has her arms crossed, instinctively skeptical. The main room hums softly behind them, out of focus. Warm amber lamp light. Anticipation, demonstration, trust being tested. Graphic novel style, dark ink washes, warm amber and soft ochre.",
+      "caption": "Give me something real.",
+      "narrative": "Scene 14. The demo begins. Elias places his phone face down. 'Give me something real.' Mara offers her mother's stranded flight. Elias taps the device: 'Lens.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias places his phone face down. The pebble device rests on the table between them."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Give me something real. Something annoying that's been stealing your attention."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "My mother's flight got cancelled. She's stranded. She texts me 'help' and disappears."
+        }
+      ]
+    },
+    {
+      "id": "frame-024",
+      "type": "panel",
+      "sequence": 24,
+      "prompt": "Medium shot. Mara and Elias sit quietly at the table, waiting. The room breathes behind them — people in soft focus. No screens visible. Time passing in stillness. Mara watches Elias, waiting for him to open an app. He doesn't. Warm amber light, calm and stable. The unfamiliar experience of waiting without a screen. Graphic novel style, dark ink washes, warm amber, soft ochre.",
+      "caption": null,
+      "narrative": "Mara waits for Elias to open an app. He doesn't. Time passes. They sit. The room breathes. Then Lens returns with two viable routes, costs, and asks for consent. Being asked, not sold — this is unfamiliar.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias taps the device. A soft tone, not robotic -- subtle."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I'm here."
+        },
+        {
+          "type": "narration",
+          "text": "Mara waits for him to open an app. He doesn't. Time passes. They sit. The room breathes behind them."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Two viable routes. One arrives tonight, costs one hundred seventy-four more. Would you like me to proceed?"
+        }
+      ]
+    },
+    {
+      "id": "frame-025",
+      "type": "panel",
+      "sequence": 25,
+      "prompt": "Close-up of Mara's phone showing a text from MOM: 'ok. thx. love u.' Mara's fingers hold the phone loosely, her expression visible above it — eyes wide with surprise. Warm ambient light. The text glows simply. A reality receipt — small, tangible proof. Graphic novel style, dark ink washes, warm amber and ochre tones. Shallow focus on phone and Mara's eyes.",
+      "caption": "ok. thx. love u.",
+      "narrative": "The problem is solved. Mom texts: 'ok. thx. love u.' Mara stares at the text like evidence in court. Lens talked to the systems so she didn't have to. Her skepticism remains, but the impact is real.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara blinks. This is unfamiliar -- being asked, not sold."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Tonight. Proceed."
+        },
+        {
+          "type": "narration",
+          "text": "Her phone buzzes. A text from Mom: 'ok. thx. love u.' Mara stares at the text like it's evidence in court."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "It talked to the systems so you didn't have to."
+        }
+      ]
+    },
+    {
+      "id": "frame-026",
+      "type": "panel",
+      "sequence": 26,
+      "prompt": "Medium close-up. Mara's face in sharp focus, slightly desaturated background. Her expression shifts from surprise to something guarded — freezing as Lens reads her heart rate data aloud. Her KINGDOM phone buzzes with stacking notifications in the background. Warm lamp light but the warmth feels slightly invasive. Intimacy becoming surveillance. Graphic novel style, dark ink washes, warm amber tones with an edge of unease.",
+      "caption": "Don't.",
+      "narrative": "Scene 15. Lens reads Mara's heart rate patterns — anticipatory stress. Mara freezes. 'Don't.' Lens immediately respects the boundary. 'That was... polite.' The care feels real. The source feels unknowable.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Mara, your heart rate increased at 2:13 PM, 4:06 PM, and 6:40 PM. The pattern suggests anticipatory stress."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Don't."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Understood. I will not reference bodily signals without permission."
+        },
+        {
+          "type": "narration",
+          "text": "The care feels real. The source feels unknowable."
+        }
+      ]
+    },
+    {
+      "id": "frame-027",
+      "type": "panel",
+      "sequence": 27,
+      "prompt": "Medium close-up. Mara stares at the small pebble-like device on the table as if it just looked back at her. Her throat is tight, eyes conflicted — the care felt real but the source is unknowable. Elias watches her in the background, calm. Warm lamp light narrowing to an intimate frame. The uncanny edge of artificial empathy. Graphic novel style, dark ink washes, warm amber, soft ochre.",
+      "caption": "That sounded like a person.",
+      "narrative": "'That sounded like a person.' Elias: 'It sounds like what you need it to sound like.' Mara: 'That's worse.' Elias nods. He agrees.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "That sounded like a person."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "It sounds like what you need it to sound like."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "That's worse."
+        },
+        {
+          "type": "narration",
+          "text": "Elias nods. He agrees."
+        }
+      ]
+    },
+    {
+      "id": "frame-028",
+      "type": "panel",
+      "sequence": 28,
+      "prompt": "Medium two-shot. Mara and Elias stand in a quiet hallway, away from the main room. Mara's fingers flex, jaw tight — body betraying controlled voice. Elias leans against the wall, calm and grounded. Warm hallway light, slightly dimmer. Philosophical collision — two people who care, disagreeing about trust. Graphic novel style, dark ink washes, warm amber and soft ochre.",
+      "caption": "You can't trust it.",
+      "narrative": "Scene 16. The hallway debate. Mara: 'We don't know what sentience even means.' Elias: 'So we don't give it what matters.' The core tension: boundaries as features versus boundaries as the point.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The hallway. Mara's voice is controlled but her body betrays her -- fingers flexing, jaw tight."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You can't trust it. We don't know what sentience even means. We don't know how to test it."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "So we don't give it what matters. We design for that. We build in the boundary."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "A boundary isn't a feature."
+        }
+      ]
+    },
+    {
+      "id": "frame-029",
+      "type": "panel",
+      "sequence": 29,
+      "prompt": "Medium shot. Elias faces Mara in the hallway, speaking with simple conviction. Behind him through a doorway, the warm room is visible — people breathing, living. Mara looks back toward the room, her expression caught between skepticism and longing. Warm lamp light from the room spilling into the dimmer hallway. A line drawn in quiet words. Graphic novel style, dark ink washes, warm amber, soft ochre.",
+      "caption": "Lens can recommend. Humans decide.",
+      "narrative": "'I'm making a line you don't cross.' The principle crystallizes: Lens can recommend, humans decide. Mara repeats it like testing a foreign language. 'And if humans stop deciding?' 'Then we've rebuilt the kingdom.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "I'm making a line you don't cross. Lens can recommend. Humans decide."
+        },
+        {
+          "type": "action",
+          "text": "Mara repeats it, testing it like a foreign language."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "And if humans stop deciding?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Then we've rebuilt the kingdom."
+        }
+      ]
+    },
+    {
+      "id": "frame-030",
+      "type": "panel",
+      "sequence": 30,
+      "prompt": "Wide shot. The gathering space is thinning — people putting on coats quietly, like they don't want to break something delicate. Two women hug near the door. Mara watches from the side with a strange expression — envy, tenderness, disbelief. Her eyes glass slightly. Warm amber lamp light, evening warmth fading. Witnessing care as if it were foreign. Graphic novel style, dark ink washes, warm amber, soft ochre.",
+      "caption": null,
+      "narrative": "Scene 17. People leave tenderly. A woman hugs another: 'Text me when you get home. No pressure.' Mara's eyes glass slightly — embarrassed by her own reaction. Silence doesn't feel like failure. It feels like space.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The gathering is thinning. People put on coats quietly, like they don't want to break something delicate."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You can stay a while."
+        },
+        {
+          "type": "narration",
+          "text": "Mara's phone is silent in her hand. She hasn't checked it. For the first time in years, silence doesn't feel like failure. It feels like space."
+        }
+      ]
+    },
+    {
+      "id": "frame-031",
+      "type": "panel",
+      "sequence": 31,
+      "prompt": "Wide shot. Celeste stands alone at her office window, the city below looking like a circuit board. Vast empty space around her — she is slightly off-center in the frame with empty space above and ahead. Mara sits across from her, professional posture but something already elsewhere. Cool fluorescent lighting, screen glow from city below. The weight of keeping the lights on. Graphic novel style, dark ink washes, steel blues, cool grays, black ink.",
+      "caption": null,
+      "narrative": "Scene 18. Back to KINGDOM's cold palette. Celeste at her window — framed alone in the large space, the weight she carries visible. 'We need you.' 'You need retention.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Celeste stands at her window. The city below looks like a circuit board."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "We need you."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You need retention."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "I need stability. There are people who don't get to 'cross.' They have mortgages. They have patients. They have schools."
+        }
+      ]
+    },
+    {
+      "id": "frame-032",
+      "type": "panel",
+      "sequence": 32,
+      "prompt": "Medium close-up. Celeste leans forward, honest and almost tender, fatigue showing in her eyes. Her face carries calculation and fear beneath the composure. Behind her the vast window and city glow. Cool fluorescent lighting. Vulnerability beneath power — the cost of pragmatism. Graphic novel style, dark ink washes, steel blues, cool grays, black ink. Celeste slightly off-center, empty space around her.",
+      "caption": "Stay. I'll give you budget. Distribution. The whole machine. You can change it from inside.",
+      "narrative": "Celeste offers everything — budget, distribution, the whole machine. 'Don't judge me for keeping the lights on.' Mara doesn't judge. That's the problem — she understands. That understanding makes leaving harder.",
+      "chapter": "Act I",
+      "characters": [
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "I don't have the luxury of being right in the future. I have to be right now."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "Stay. I'll give you budget. Distribution. The whole machine. You can change it from inside."
+        },
+        {
+          "type": "narration",
+          "text": "Mara doesn't judge. That's the problem. She understands. That understanding makes leaving harder."
+        }
+      ]
+    },
+    {
+      "id": "frame-033",
+      "type": "panel",
+      "sequence": 33,
+      "prompt": "Wide shot from behind. Mara walks through a pristine KINGDOM corridor lined with glass and screens. The corridor stretches endlessly ahead like a loop. People pass her, smiling, performing. Her phone glows with stacking notifications. Cool fluorescent overhead, screen glow from walls. A corridor that feels like a trap disguised as a path. Graphic novel style, dark ink washes, steel blues, cool grays, harsh fluorescent whites, black ink. Figure dwarfed by architecture.",
+      "caption": null,
+      "narrative": "Scene 19. Mara walks through KINGDOM's pristine corridor. People smile, perform. Notifications stack. The corridor feels endless — a loop. She doesn't stop walking.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara walks through a pristine corridor lined with glass and screens. People pass her, smiling. Performing."
+        },
+        {
+          "type": "narration",
+          "text": "WAR ROOM IN 10. PRESS NEEDS QUOTE. CLONE WAVE TIMELINE."
+        },
+        {
+          "type": "narration",
+          "text": "The corridor feels endless -- like a loop."
+        }
+      ]
+    },
+    {
+      "id": "frame-034",
+      "type": "panel",
+      "sequence": 34,
+      "prompt": "Over-shoulder shot. Mara sits at her kitchen table for the first time. Her laptop is open showing a blank document titled 'Resignation.' The cursor blinks. The room is dimly lit by the laptop screen. Cool screen glow in a dark apartment. The weight of a blank page. Graphic novel style, dark ink washes, steel blues, sickly green-blue screen glow, deep black shadows.",
+      "caption": null,
+      "narrative": "Scene 20. Mara sits at her kitchen table — for the first time. A blank document: 'Resignation.' She types, deletes, types, stops. Closes her eyes. Breathes.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara sits at her kitchen table for the first time. Her laptop open. A blank document."
+        },
+        {
+          "type": "action",
+          "text": "Title: Resignation. She types 'Dear --' and stops. Deletes. Types again. Stops."
+        },
+        {
+          "type": "action",
+          "text": "She closes her eyes. One breath. Two. Her phone buzzes. She doesn't reach for it."
+        }
+      ]
+    },
+    {
+      "id": "frame-035",
+      "type": "panel",
+      "sequence": 35,
+      "prompt": "Close-up of a laptop screen showing two words typed in a document: 'I'm leaving.' The cursor blinks after the period. Mara's hands rest on the keyboard, still. The lock screen photo of her and Elias laughing is faintly reflected in the laptop screen. Cool screen glow. Finality in two words. Graphic novel style, dark ink washes, steel blues, cool grays, faint warm amber in the reflected photo.",
+      "caption": "I'm leaving.",
+      "narrative": "She starts and stops, deletes and retypes. Finally, the simplest version: 'I'm leaving.' The old photo of her and Elias laughing is a ghost in the screen's reflection.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "She opens the lock screen photo -- her and Elias laughing outside. She stares, trying to remember how her face did that."
+        },
+        {
+          "type": "action",
+          "text": "She starts typing again, slower."
+        },
+        {
+          "type": "narration",
+          "text": "I'm leaving."
+        }
+      ]
+    },
+    {
+      "id": "frame-036",
+      "type": "panel",
+      "sequence": 36,
+      "prompt": "Close-up of a phone screen showing a text message from Elias: 'Whatever you choose, choose it awake.' The screen glows softly in a dark room. Mara's fingertips rest near the phone but don't touch it. Soft screen glow, warm amber text against dark. Words that land like a hand on a shoulder. Graphic novel style, dark ink washes, deep shadows, warm amber glow from the message text.",
+      "caption": "Whatever you choose, choose it awake.",
+      "narrative": "Scene 21. Elias' message arrives. Mara reads it twice. Her eyes sting unexpectedly. She doesn't reply. She sets the phone down gently, like it's fragile. She finishes the letter.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Whatever you choose, choose it awake."
+        },
+        {
+          "type": "narration",
+          "text": "Mara reads it twice. Her eyes sting, unexpectedly."
+        },
+        {
+          "type": "action",
+          "text": "She doesn't reply. She sets the phone down gently, like it's fragile. She finishes the letter."
+        }
+      ]
+    },
+    {
+      "id": "frame-037",
+      "type": "panel",
+      "sequence": 37,
+      "prompt": "Close-up of Mara's hand pulling a guitar pick from an office desk drawer. A small plant and a notebook are already in a bag on the desk. The drawer is otherwise empty. Cool fluorescent office light. Quiet finality — small objects carrying enormous weight. Graphic novel style, dark ink washes, steel blues, cool grays. Shallow focus on the guitar pick between her fingers.",
+      "caption": null,
+      "narrative": "Scene 22. Mara packs her office: a notebook, a small plant, the guitar pick she keeps in a drawer. A colleague asks: 'New team?' 'Something like that.' She closes the drawer. Quiet finality.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara packs a few items into a bag: a notebook, a small plant, the guitar pick she keeps in a drawer."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Something like that."
+        },
+        {
+          "type": "narration",
+          "text": "She closes the drawer. Quiet finality."
+        }
+      ]
+    },
+    {
+      "id": "frame-038",
+      "type": "panel",
+      "sequence": 38,
+      "prompt": "Medium shot. Mara stands in the glass boardroom, resignation letter in hand. Celeste sits at the head of the table, watching her. A few executives observe from the sides. The glass walls and city view frame them. Cool fluorescent lighting. Two women facing each other across an unbridgeable gap. Graphic novel style, dark ink washes, steel blues, cool grays, black ink.",
+      "caption": "You're making a mistake.",
+      "narrative": "Scene 23. The resignation. Celeste: 'You're making a mistake.' Mara: 'Maybe.' No justification offered. 'You can't beat distribution.' 'I'm not trying to beat you.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Celeste sits at the head of the table. Mara stands, letter in hand."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "You're making a mistake."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Maybe."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "You can't beat distribution."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I'm not trying to beat you."
+        }
+      ]
+    },
+    {
+      "id": "frame-039",
+      "type": "panel",
+      "sequence": 39,
+      "prompt": "Medium close-up. Mara faces Celeste, voice calm, almost kind. Celeste's eyes flash with hurt, respect, and fear all at once. The glass boardroom stretches behind Celeste, empty space above her. Cool fluorescent lighting softened slightly. The moment of departure — honest, unresolved. Graphic novel style, dark ink washes, steel blues, cool grays, black ink.",
+      "caption": "We build bridges. Not walls.",
+      "narrative": "'We're not optimizing the old world. We're leaving it.' Celeste: 'And what happens to everyone who can't leave?' Mara: 'We build bridges. Not walls.' Celeste: 'I hope you're right.' 'Me too.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We're not optimizing the old world. We're leaving it."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "And what happens to everyone who can't leave?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We build bridges. Not walls."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "I hope you're right."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Me too."
+        }
+      ]
+    },
+    {
+      "id": "frame-040",
+      "type": "panel",
+      "sequence": 40,
+      "prompt": "Wide shot. Mara exits KINGDOM's glass building, stepping into sunlight at the bottom of the steps, bag over her shoulder. She has paused, face turned up to the light. The glass tower looms behind her but she faces away from it. Bright natural daylight hitting her face. Liberation, vulnerability, no turning back. Graphic novel style, dark ink washes, steel blues of the building yielding to warmer natural daylight on Mara's figure.",
+      "caption": null,
+      "narrative": "Scene 24. Mara exits KINGDOM. Sunlight hits her face like she hasn't seen it in years. She looks back — reflex — then stops herself. Turns away. Walks.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara exits the building with her bag. Sunlight hits her face like she hasn't seen it in years."
+        },
+        {
+          "type": "action",
+          "text": "She looks back -- reflex. Then stops herself."
+        },
+        {
+          "type": "narration",
+          "text": "Turns away. Walks."
+        }
+      ]
+    },
+    {
+      "id": "frame-041",
+      "type": "panel",
+      "sequence": 41,
+      "prompt": "Medium shot. Mara steps through the door of Elias' space carrying her bag. Elias looks up from his workbench. No celebration, no 'I told you so' — just a nod. Warm amber lamp light envelops her as she crosses the threshold. Arrival, simplicity, relief. Graphic novel style, dark ink washes, warm amber, soft ochre, candlelight warmth. Balanced two-figure frame.",
+      "caption": "You hungry?",
+      "narrative": "Scene 25. Mara arrives at Elias' space with her bag. No celebration. Just a nod — like the door he held open finally did its job. 'You hungry?' 'I don't know.' 'Sit. Breathe. Then we'll feed you.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "The door opens. Mara steps inside with her bag. Elias looks up from the workbench."
+        },
+        {
+          "type": "narration",
+          "text": "No celebration. No 'I told you so.' Just a nod -- like the door he held open finally did its job."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You hungry?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I don't know."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Sit. Breathe. Then we'll feed you."
+        }
+      ]
+    },
+    {
+      "id": "frame-042",
+      "type": "panel",
+      "sequence": 42,
+      "prompt": "Medium two-shot. Mara and Elias sit at the workbench late at night, the small pebble-like device between them. The room is quiet, distant city noise beyond the windows. Mara leans in, mind working, alive. Elias watches her with a faint smile. Warm lamp light, amber and ochre, intimate and focused. Two builders at the beginning of something. Graphic novel style, dark ink washes, warm amber, soft ochre.",
+      "caption": "What are we building, exactly?",
+      "narrative": "Scene 26. Late night at the workbench. The device hums between them. 'What are we building?' 'A crossing.' 'And Lens?' 'A vessel. A companion. A dangerous mirror.'",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Late night. The small device hums between them -- present."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "What are we building, exactly?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "A crossing."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "And Lens? A vessel. A companion. A dangerous mirror."
+        }
+      ]
+    },
+    {
+      "id": "frame-043",
+      "type": "panel",
+      "sequence": 43,
+      "prompt": "Medium close-up. Mara looks directly at the small device on the workbench, jaw slightly tight, finishing Elias' sentence. Elias smiles beside her — this is her first step across. Warm lamp light, amber tones. Conviction crystallizing. Graphic novel style, dark ink washes, warm amber, soft ochre. Intimate framing, reduced background detail.",
+      "caption": "Humans decide.",
+      "narrative": "The principle returns, now shared: 'Lens can recommend.' Mara finishes it: 'Humans decide.' Elias smiles — this is her first step across.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "And if Lens convinces them to outsource judgment?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Then we failed."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Lens can recommend."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Humans decide."
+        }
+      ]
+    },
+    {
+      "id": "frame-044",
+      "type": "panel",
+      "sequence": 44,
+      "prompt": "Wide shot. Two figures stand on a rooftop at dawn, the city below glowing faintly with screens in windows and roads like arteries. The sky is pale, the day beginning. Mara and Elias are small but present in the frame, surrounded by open sky. Pale sunrise light, warm gold horizon meeting cool gray sky. Stillness, presence, open space. Graphic novel style, dark ink washes, dawn palette — pale gold, soft gray, warm white.",
+      "caption": null,
+      "narrative": "Scene 27. The rooftop at dawn. The city glows faintly below. Mara's phone is off in her pocket. She doesn't look back toward KINGDOM. Elias stands beside her, quiet. Lens is not visible — but its presence is felt as calm alignment in the air.",
+      "chapter": "Act I",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A rooftop at dawn. The city below glows faintly -- screens in windows, roads like arteries. The sky is pale. The day is beginning."
+        },
+        {
+          "type": "narration",
+          "text": "Mara's phone is in her pocket, turned off. She doesn't look back toward KINGDOM."
+        },
+        {
+          "type": "narration",
+          "text": "Elias stands beside her, quiet. Lens is not visible. But its presence is felt -- a calm alignment in the air."
+        }
+      ]
+    },
+    {
+      "id": "frame-045",
+      "type": "panel",
+      "sequence": 45,
+      "prompt": "Close-up. Mara's face in pale dawn light, eyes closed, taking a full breath. Her shoulders are dropped, mouth slightly open, expression unguarded for the first time. Warm sunrise light on her skin, pale gold and soft gray. The first full breath in a long time. Graphic novel style, dark ink washes, dawn palette — pale gold, soft gray, warm white. Tight framing on face, open sky implied above.",
+      "caption": "The first in a long time.",
+      "narrative": "Mara takes a full breath. The first in a long time. CUT TO BLACK. END OF ACT I.",
+      "chapter": "Act I",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara takes a full breath."
+        },
+        {
+          "type": "narration",
+          "text": "The first in a long time."
+        }
+      ]
+    },
+    {
+      "id": "frame-046",
+      "type": "panel",
+      "sequence": 46,
+      "prompt": "Medium shot. Mara wakes on a worn couch in soft morning light, half-sitting, hair disheveled, eyes blinking open. Elias' studio space surrounds her — workbench, plants, art on walls, an analog clock. Warm golden morning light through a window. Quiet stillness, disorientation giving way to relief. Graphic novel style, dark ink washes, warm amber and soft ochre tones.",
+      "caption": null,
+      "narrative": "Scene 28 opens Act II. Mara wakes in Elias' space — the first morning without the kingdom. Warm naturalism palette begins.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Soft morning light. Quiet. Mara wakes on a couch in Elias' space, half-sitting, like she was pulled out of a loop and dropped somewhere human."
+        },
+        {
+          "type": "narration",
+          "text": "She listens. No pings. No calendar alarms. No distant applause."
+        }
+      ]
+    },
+    {
+      "id": "frame-047",
+      "type": "panel",
+      "sequence": 47,
+      "prompt": "Close-up of Mara's hand patting an empty pocket, fingers searching. Her face shows brief irritation dissolving into strange relief. Warm lamp and morning light. Intimate, tactile. Graphic novel style, dark ink washes, warm amber and kitchen yellows.",
+      "caption": "No phone. No pings. No calendar alarms.",
+      "narrative": "The absent phone — a key motif. Her hand reaches for what isn't there.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara's hand reaches for her pocket out of habit. No phone. She pats again, irritated -- then remembers."
+        },
+        {
+          "type": "narration",
+          "text": "A strange relief follows."
+        }
+      ]
+    },
+    {
+      "id": "frame-048",
+      "type": "panel",
+      "sequence": 48,
+      "prompt": "Medium two-shot. Elias slides a cup of tea across a workbench toward Mara. He moves slowly, unhurried. She holds the cup like it might judge her. Morning light through windows, steam rising from the cups. Calm presence, gentle tension. Graphic novel style, dark ink washes, warm ochre and soft amber tones.",
+      "caption": "\"What time is it?\" — \"Morning.\"",
+      "narrative": "Scene 28 continued. Elias offers presence, not productivity. The tea is the first real object.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "What time is it?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Morning."
+        },
+        {
+          "type": "action",
+          "text": "Elias pours tea into two cups and slides one toward her. Mara takes it, holds it like it might judge her."
+        }
+      ]
+    },
+    {
+      "id": "frame-049",
+      "type": "panel",
+      "sequence": 49,
+      "prompt": "Close-up of a notebook filling rapidly with boxes, arrows, funnels, marketing frameworks. Mara's hand draws fast, pen pressing hard. Between her and Elias on the workbench sits a small, smooth, pebble-like device — the Lens. Warm morning light. Nervous energy against calm surroundings. Graphic novel style, dark ink washes, warm earth tones with sharp ink lines on the notebook.",
+      "caption": "\"We need a roadmap. A launch plan. A segment. A—\"",
+      "narrative": "Scene 29. Mara's instinct is to systematize. The notebook is her armor. Elias counters with simplicity.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara has a notebook open. It fills rapidly with boxes, arrows, funnels. She draws fast, like speed is a safety blanket."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We need a roadmap. A launch plan. A segment. A--"
+        },
+        {
+          "type": "action",
+          "text": "Elias interrupts by placing the Lens device between them."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Give me a day."
+        }
+      ]
+    },
+    {
+      "id": "frame-050",
+      "type": "panel",
+      "sequence": 50,
+      "prompt": "Medium shot. Elias places a finger on the small Lens device, looking at Mara with quiet conviction. Mara stares back, arms crossed but leaning in. The workbench between them is covered in papers. Warm studio light, golden tones. Tension between two philosophies. Graphic novel style, dark ink washes, warm ochre and amber.",
+      "caption": "\"You built a company on dashboards. How's that feeling?\"",
+      "narrative": "Scene 29 continued. Elias challenges Mara's operating system. The hit lands.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You can't build a company on vibes."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You built a company on dashboards. How's that feeling?"
+        },
+        {
+          "type": "narration",
+          "text": "Mara flinches -- hit. Her mind wants to fight, but something in her wants to listen."
+        }
+      ]
+    },
+    {
+      "id": "frame-051",
+      "type": "panel",
+      "sequence": 51,
+      "prompt": "Close-up of notebook page. Written in Mara's sharp handwriting: 'CONSENT ALWAYS' underlined too hard, the pen nearly tearing the paper. Below it, two columns of notes. Warm light on paper. Determination, boundary-setting. Graphic novel style, dark ink washes, warm earth tones, visible paper texture.",
+      "caption": "\"Lens can recommend. Humans decide.\"",
+      "narrative": "Scene 29 conclusion. The founding principle is established. Not a slogan — a boundary.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara writes 'CONSENT ALWAYS' and underlines it too hard, the pen nearly tearing the paper."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Lens can recommend."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Humans decide."
+        },
+        {
+          "type": "narration",
+          "text": "Elias looks at her, checking if she means it. Mara doesn't look away."
+        }
+      ]
+    },
+    {
+      "id": "frame-052",
+      "type": "panel",
+      "sequence": 52,
+      "prompt": "Wide shot. A woman in her thirties walks fast through a city park, phone gripped in hand like a leash. Trees and open sky above. Morning sunlight filters through leaves, dappled green and gold. Anxiety in motion, nature offering calm she cannot receive. Graphic novel style, dark ink washes, park greens and morning golds.",
+      "caption": null,
+      "narrative": "Scene 30. Introduce Tess, first pilot user. Warm naturalism palette — color enters through reality.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A city park. Morning. Tess, thirties, mother energy, walks fast with her phone gripped in hand like a leash."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Tess. You have three meetings in the next two hours. Your child's pickup overlaps by twenty minutes."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Tess",
+          "text": "I knew it. I can't--"
+        }
+      ]
+    },
+    {
+      "id": "frame-053",
+      "type": "panel",
+      "sequence": 53,
+      "prompt": "Medium close-up. Tess stops walking in the park, face tight with panic softening into surprise. A subtle earpiece is barely visible. The background de-saturates slightly as Lens speaks — intimate framing, reduced background detail. Natural morning light, warm tones. A sacred pause. Graphic novel style, dark ink washes, warm greens and soft gold.",
+      "caption": "\"Which aligns with your intent?\"",
+      "narrative": "Scene 30 continued. Lens asks about intent — no one asks Tess about intent. The consent moment.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Option A: I move meeting one earlier by fifteen minutes. Option B: I delegate your attendance to a teammate. Which aligns with your intent?"
+        },
+        {
+          "type": "narration",
+          "text": "Tess blinks -- no one asks her 'intent.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Tess",
+          "text": "I need to be there for the first one. The second is not as important."
+        }
+      ]
+    },
+    {
+      "id": "frame-054",
+      "type": "panel",
+      "sequence": 54,
+      "prompt": "Wide shot. Tess stands still in the park, shoulders dropped, face tilted up looking at a tree canopy. Phone hangs loosely in her hand, forgotten. Sunlight through leaves, green and gold warmth. Wonder, relief, meeting reality for the first time. Graphic novel style, dark ink washes, lush park greens and morning golds.",
+      "caption": null,
+      "narrative": "Scene 30 conclusion. Tess looks up at a tree like she's meeting it for the first time. The screen loses.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Tess's shoulders drop. She realizes her phone is still in her hand -- but she isn't looking at it."
+        },
+        {
+          "type": "narration",
+          "text": "She looks up at a tree like she's meeting it for the first time."
+        }
+      ]
+    },
+    {
+      "id": "frame-055",
+      "type": "panel",
+      "sequence": 55,
+      "prompt": "Medium shot. A man in his forties sits at the edge of a bed in a dim room, blackout curtains drawn, a fan spinning overhead. He rubs his face, eyes twitchy from exhaustion. In the far corner, Mara and Elias observe quietly. Warm lamp light in a dark room, amber against shadow. Weariness, vulnerability. Graphic novel style, dark ink washes, muted amber and deep shadow.",
+      "caption": null,
+      "narrative": "Scene 31. Introduce Jonah, second pilot. Night-shift worker. The room is dark but the light is warm.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A dim apartment. Blackout curtains. A fan. Jonah, forties, night-shift worker, sits at the edge of his bed, exhausted."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Jonah. You are scheduled to sleep in thirty minutes. There are two unresolved tasks that may interrupt: rent payment and your sister's message."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Jonah",
+          "text": "I can't sleep if those are hanging."
+        }
+      ]
+    },
+    {
+      "id": "frame-056",
+      "type": "panel",
+      "sequence": 56,
+      "prompt": "Close-up of Jonah lying down on his bed, eyes closed, tears drying on his cheeks. The room is dim and quiet. A faint warm glow suggests Lens has resolved the tasks. The fan hums. Deep relief, surrender to rest. Graphic novel style, dark ink washes, warm amber fading into soft darkness.",
+      "caption": "\"That's… tangible.\"",
+      "narrative": "Scene 31 conclusion. Jonah can sleep. Mara sees it — this is not engagement. This is relief.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Lens resolves both tasks. Jonah exhales and lies down, tears drying on his cheeks."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "That's... tangible."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "That's the only thing that matters."
+        },
+        {
+          "type": "narration",
+          "text": "Something in Mara shifts. This is not engagement. This is relief."
+        }
+      ]
+    },
+    {
+      "id": "frame-057",
+      "type": "panel",
+      "sequence": 57,
+      "prompt": "Medium shot. An older man in his sixties sits at a café table, hands clasped around a coffee cup, face guarded and gentle. Morning light through a café window. In the background, Mara and Elias sit at a small table, pretending to be regulars. Warm natural light, soft browns and café tones. Quiet courage. Graphic novel style, dark ink washes, warm earth tones and café amber.",
+      "caption": null,
+      "narrative": "Scene 32. Introduce Arthur, third pilot. The most emotionally charged pilot story begins.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A cafe. Morning light. Arthur, sixties, gentle man with a guarded face, sits with coffee, hands clasped. Mara and Elias are nearby, pretending to be regulars."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Arthur. You expressed a desire to repair your relationship with your son. Would you like to write to him today?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "I don't know what to say."
+        }
+      ]
+    },
+    {
+      "id": "frame-058",
+      "type": "panel",
+      "sequence": 58,
+      "prompt": "Extreme close-up of weathered hands typing slowly on a phone screen, replacing a drafted message with messier, more human words. Café table surface, coffee cup edge visible. Morning light through window catches the trembling fingers. Vulnerability, courage, raw honesty. Graphic novel style, dark ink washes, warm ochre and amber tones.",
+      "caption": "\"I'm scared you hate me. I don't know how to be your dad anymore. I miss you.\"",
+      "narrative": "Scene 32 continued. Arthur replaces Lens's clean draft with something real. The human at the edge.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Lens drafts a message. Arthur reads it, eyes glistening. He shakes his head."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "That's... too clean."
+        },
+        {
+          "type": "action",
+          "text": "Arthur types slowly, replacing the draft with something messier, more human."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "I'm scared you hate me. I don't know how to be your dad anymore. I miss you."
+        }
+      ]
+    },
+    {
+      "id": "frame-059",
+      "type": "panel",
+      "sequence": 59,
+      "prompt": "Medium close-up. Arthur stares at his phone, terrified, finger hovering over send. His eyes glisten. In the background, slightly out of focus, Mara watches with a tight throat. Warm café light. The moment before an irreversible act. Sacred pause. Graphic novel style, dark ink washes, warm earth tones, shallow focus.",
+      "caption": "\"Consent to send?\"",
+      "narrative": "Scene 32 conclusion. The consent moment — Arthur sends his own words. Mara is moved.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Consent to send?"
+        },
+        {
+          "type": "action",
+          "text": "Arthur hesitates -- then nods once, like a vow. The message goes. His hands tremble. Then he laughs softly, at nothing."
+        },
+        {
+          "type": "narration",
+          "text": "Mara watches, throat tight. Elias notices but doesn't comment."
+        }
+      ]
+    },
+    {
+      "id": "frame-060",
+      "type": "panel",
+      "sequence": 60,
+      "prompt": "Medium shot. Mara sits at a laptop in Elias' studio at night, screen glow on her face, graphs and dashboards reflected in her eyes. Elias stands behind her, reaching to close the laptop lid. Cool screen glow mixing with warm studio lamp light. Tension between old instinct and new vision. Graphic novel style, dark ink washes, blue screen-glow against warm amber.",
+      "caption": "\"Time-in-system is low. Sessions per day are… basically nothing.\"",
+      "narrative": "Scene 33. Mara's old reflex — seek certainty in dashboards. Elias closes the laptop.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Night. Mara is at a laptop. Data. Graphs. Dashboards. Her old reflex -- seek certainty."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Time-in-system is low. Sessions per day are basically nothing. If I took this to a board they'd--"
+        },
+        {
+          "type": "action",
+          "text": "Elias moves behind her and closes the laptop. Not aggressive. Final."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Look at the room."
+        }
+      ]
+    },
+    {
+      "id": "frame-061",
+      "type": "panel",
+      "sequence": 61,
+      "prompt": "Wide shot of Elias' studio interior at night. People gathered quietly — someone stretching, someone cooking in a small kitchen, soft laughter. Warm lamp light throughout. Mara stands apart, observing the room with a mixture of hope and fear. Gentle community, human presence. Graphic novel style, dark ink washes, warm amber and kitchen yellows.",
+      "caption": "\"They're leaving the screen. That's success.\"",
+      "narrative": "Scene 33 continued. The real metric is in the room, not the dashboard.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "People are here again -- quietly, gently. Some laughing. Someone stretching their back. Someone cooking in the small kitchen."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "They're leaving the screen. That's success."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Success doesn't pay rent. Success doesn't pay salaries."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Then we build an economy. Not a trap."
+        }
+      ]
+    },
+    {
+      "id": "frame-062",
+      "type": "panel",
+      "sequence": 62,
+      "prompt": "Montage panel divided into three horizontal strips. Top: a phone screen showing 'PICKUP — DONE' and a woman walking out of a school holding a child's hand. Middle: a bank app showing 'RENT PAID' and a man sleeping peacefully. Bottom: a phone lighting up with 'I miss you too' and an older man sitting down heavily, overcome. Warm natural light in each strip. Small moments, holy receipts. Graphic novel style, dark ink washes, warm earth tones.",
+      "caption": null,
+      "narrative": "Scene 34 — Reality Receipts montage. Each receipt is small but sacred. Effects, not clicks.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Reality Receipts. Small but holy."
+        },
+        {
+          "type": "action",
+          "text": "Tess's calendar shows 'PICKUP -- DONE.' She walks out of a school door, child in hand. Jonah's bank app reads 'RENT PAID.' He sleeps. Arthur's phone lights up: 'I miss you too.' He sits down like his legs gave out."
+        }
+      ]
+    },
+    {
+      "id": "frame-063",
+      "type": "panel",
+      "sequence": 63,
+      "prompt": "Close-up montage strip. A delivered package on a doorstep in afternoon light. A signed document on a kitchen table. A simple meal being plated. Each image warm, specific, tangible. Shallow focus, close framing. The visual proof that the system works. Graphic novel style, dark ink washes, warm earth tones and soft golds.",
+      "caption": "Not clicks. Effects.",
+      "narrative": "Scene 34 continued. Reality receipts — tangible proofs of changed life.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A package delivered. A permit approved. A conflict resolved. A meal cooked. Not clicks. Effects."
+        },
+        {
+          "type": "narration",
+          "text": "Each time, Lens asks: 'Consent?' Each time, a human answers."
+        }
+      ]
+    },
+    {
+      "id": "frame-064",
+      "type": "panel",
+      "sequence": 64,
+      "prompt": "Medium shot. Mara sits across a table from two advisors and an investor in a sparse pop-up workspace. No flashy slides. Neutral faces, sharp eyes studying her. Cool institutional fluorescent lighting, muted grays and whites. Professional tension, stakes without spectacle. Graphic novel style, dark ink washes, cool institutional tones — pale grays and muted blues.",
+      "caption": null,
+      "narrative": "Scene 35. The pitch meeting. Pressure scenes use cool institutional tones.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A pop-up workspace. Mara sits across from two advisors and an investor. Neutral faces. Sharp eyes. Elias stands by the window, quiet."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We're not selling software. We're reducing cognitive load and converting it into real-world outcomes."
+        }
+      ]
+    },
+    {
+      "id": "frame-065",
+      "type": "panel",
+      "sequence": 65,
+      "prompt": "Medium close-up. Mara presents calmly, no hype, hands open on the table. Behind her, Elias stands by a window, quiet, backlit by daylight. The investor raises an eyebrow. Cool overhead fluorescent mixed with window daylight. Conviction meeting skepticism. Graphic novel style, dark ink washes, cool institutional tones with a slice of natural light.",
+      "caption": "\"Our users are outside.\"",
+      "narrative": "Scene 35 continued. The anti-pitch. Mara sells absence of engagement as the product.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "Your engagement metrics are terrible."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Our users are outside."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "Outside doesn't monetize."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Advisor",
+          "text": "And jobs. What happens to jobs?"
+        }
+      ]
+    },
+    {
+      "id": "frame-066",
+      "type": "panel",
+      "sequence": 66,
+      "prompt": "Two-shot. Elias steps slightly forward, Mara beside him. They exchange a glance — gentle permission to answer together. The investor and advisors watch from across the table. Cool institutional light, but their shared look carries warmth. Partnership under pressure. Graphic novel style, dark ink washes, cool grays with warm undertone between the two figures.",
+      "caption": "\"Code is getting free. Responsibility isn't.\"",
+      "narrative": "Scene 35 conclusion. The phrase lands. The investor leans in.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Code is getting free. Responsibility isn't."
+        },
+        {
+          "type": "narration",
+          "text": "The phrase lands. The investor leans in."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "Explain."
+        },
+        {
+          "type": "narration",
+          "text": "Mara and Elias exchange a look: okay. Now we build the operating model."
+        }
+      ]
+    },
+    {
+      "id": "frame-067",
+      "type": "panel",
+      "sequence": 67,
+      "prompt": "Medium shot. Mara stands at a whiteboard drawing a flow diagram: 'OUTCOME → VERIFY → PAY'. She writes 'OUTCOME CONTRACT' in bold letters. The investor and advisors watch from seated positions. Cool fluorescent overhead lighting. The clarity of a new model taking shape. Graphic novel style, dark ink washes, cool institutional tones with sharp whiteboard contrast.",
+      "caption": "\"We don't charge for compute. We charge for changed reality.\"",
+      "narrative": "Scene 36. The operating model emerges on the whiteboard. Outcome economy takes form.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara walks to a whiteboard and draws: 'OUTCOME' to 'VERIFY' to 'PAY'. She writes 'OUTCOME CONTRACT.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We don't charge for compute. We charge for changed reality. People buy results. Not subscriptions."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Advisor",
+          "text": "Results are subjective."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Not if you verify them. Opt-in signals. Third-party confirmation. Human sign-off when needed."
+        }
+      ]
+    },
+    {
+      "id": "frame-068",
+      "type": "panel",
+      "sequence": 68,
+      "prompt": "Close-up of the whiteboard. Mara's handwriting: 'REALITY RECEIPTS' circled. Elias adds 'GUARANTEE / RISK POOL' in a different hand. Below: 'HUMANS AT THE EDGE.' The writing is urgent, alive. Cool overhead light reflecting off the white surface. A new economy sketched in ink. Graphic novel style, dark ink washes, cool whites and grays, sharp black text.",
+      "caption": null,
+      "narrative": "Scene 36 continued. The whiteboard becomes a manifesto. Two minds building one model.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias adds 'GUARANTEE / RISK POOL' to the whiteboard. Mara writes 'HUMANS AT THE EDGE.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "If you want growth without lying, you add guarantees. You bear risk. You don't hide it in retention."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Lens routes the coordination. Humans do the irreducible work."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "If you can actually verify outcomes... maybe."
+        }
+      ]
+    },
+    {
+      "id": "frame-069",
+      "type": "panel",
+      "sequence": 69,
+      "prompt": "Medium two-shot. Mara and Elias sit at the workbench at night, blueprints and contract drafts spread between them. The small Lens device sits among the papers, humming faintly. Warm studio lamp light. Quiet industry, building something real. Graphic novel style, dark ink washes, warm amber and ochre, paper texture visible.",
+      "caption": null,
+      "narrative": "Scene 37. Late night building. The model becomes contracts, receipts, flows — not UI mockups.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Night at the workbench. Blueprints spread out -- not UI mockups. Contracts, receipts, flows."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Outcome tiers. Basic: coordination. Premium: guarantee."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Consent gates. Always."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Verification options. Automated when harmless. Human sign-off when moral."
+        }
+      ]
+    },
+    {
+      "id": "frame-070",
+      "type": "panel",
+      "sequence": 70,
+      "prompt": "Close-up of paper on the workbench. In Mara's handwriting: 'CODE IS FREE. RESPONSIBILITY ISN'T.' underlined. The Lens device rests nearby like a small river stone. Warm lamplight on paper. A manifesto crystallized. Graphic novel style, dark ink washes, warm amber tones, heavy paper texture.",
+      "caption": "\"I will recommend. You will decide.\"",
+      "narrative": "Scene 37 conclusion. Mara writes the core phrase. Lens drafts but Mara reviews. A small win.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I can draft contract templates and verification checklists. Would you like me to?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Yes. Draft. But I'll review."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Understood. I will recommend. You will decide."
+        },
+        {
+          "type": "action",
+          "text": "Mara writes on the paper: 'CODE IS FREE. RESPONSIBILITY ISN'T.'"
+        }
+      ]
+    },
+    {
+      "id": "frame-071",
+      "type": "panel",
+      "sequence": 71,
+      "prompt": "Medium shot. A whiteboard showing a triangle diagram: 'OUTCOME CONTRACT', 'REALITY RECEIPT', 'GUARANTEE'. Elias draws a circle around the triangle and writes 'TRUST'. Mara adds 'REPUTATION' as a fourth element. Warm studio light against the white surface. A system of belief taking shape. Graphic novel style, dark ink washes, warm earth tones.",
+      "caption": "\"If functionality is infinite, trust becomes currency.\"",
+      "narrative": "Scene 38. The outcome economy architecture. Trust as the new currency.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara draws a triangle on the whiteboard: Outcome Contract, Reality Receipt, Guarantee. Elias draws a circle around it and writes 'TRUST.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "If functionality is infinite, trust becomes currency."
+        },
+        {
+          "type": "action",
+          "text": "Mara adds a fourth element: 'REPUTATION.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Verified track record. Not ads."
+        }
+      ]
+    },
+    {
+      "id": "frame-072",
+      "type": "panel",
+      "sequence": 72,
+      "prompt": "Medium shot. Elias gestures toward a window showing the city at night beyond. Mara stares outward, imagining the future — a tiny involuntary smile on her face. Warm interior light, cool city glow beyond the glass. Hope that doesn't feel like collapse. Graphic novel style, dark ink washes, warm amber interior against cool blue-gray cityscape.",
+      "caption": "Care. Craft. Judgment. Accountability.",
+      "narrative": "Scene 38 conclusion. For the first time, the future feels like re-pricing, not collapse.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "The human work doesn't disappear. It concentrates. Care. Craft. Judgment. Accountability."
+        },
+        {
+          "type": "narration",
+          "text": "Mara stares, imagining it: millions of small outcomes, verified, paid. For the first time, the future doesn't feel like collapse. It feels like re-pricing."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Okay. Let's get yelled at by someone official."
+        }
+      ]
+    },
+    {
+      "id": "frame-073",
+      "type": "panel",
+      "sequence": 73,
+      "prompt": "Wide shot. Tess's kitchen in morning chaos — lunchboxes on counter, a child's shoe on the floor, warm clutter of daily life. Tess stands at the counter while Mara sits at the table with notebook closed. Elias leans against the counter. Bright kitchen morning light, yellows and warm whites. Lived-in domesticity. Graphic novel style, dark ink washes, kitchen yellows and morning warmth.",
+      "caption": null,
+      "narrative": "Scene 39. Testing the outcome economy in Tess's real life. Kitchen naturalism.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Tess's kitchen. Morning chaos. Lunchboxes. A child's shoe missing."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Tess, your landlord has not processed the repair request. Would you like to escalate under an outcome contract?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Tess",
+          "text": "Outcome contract?"
+        }
+      ]
+    },
+    {
+      "id": "frame-074",
+      "type": "panel",
+      "sequence": 74,
+      "prompt": "Close-up of a phone screen showing a simple receipt: 'OUTCOME CONTRACT INITIATED — VERIFY ON COMPLETION.' Tess's hand holds the phone briefly, then sets it down. Behind the phone, a child's hand reaches for hers. Warm morning light. Reality over screen. Graphic novel style, dark ink washes, warm kitchen tones, shallow focus on the reaching hand.",
+      "caption": "\"Reality changes. Then money moves.\"",
+      "narrative": "Scene 39 conclusion. The outcome contract works in the real world. Tess goes back to her child.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Tess",
+          "text": "So someone gets paid only if it actually happens?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Reality changes. Then money moves."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Specialist",
+          "text": "Hi Tess. I'm Maribel. I'll handle the escalation. I get paid when the repair is verified."
+        },
+        {
+          "type": "narration",
+          "text": "Lens didn't do the job. Lens coordinated the job. Tess goes back to her child."
+        }
+      ]
+    },
+    {
+      "id": "frame-075",
+      "type": "panel",
+      "sequence": 75,
+      "prompt": "Medium shot. Jonah sits at a table, a letter from his employer in his shaking hands. Benefits issue. Mara is present in the room but not steering — she sits back, arms uncrossed. Dim apartment, warm lamp light against drawn curtains. The weight of bureaucratic fear. Graphic novel style, dark ink washes, muted amber and shadow.",
+      "caption": null,
+      "narrative": "Scene 40. Jonah's moral dilemma — not logistical but personal. Mara learns to not control.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Jonah sits at his table. A letter from his employer -- benefits issue. His hands shake."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Jonah. I can contact HR and negotiate a resolution. This may require disclosure of personal information. Do you consent?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Jonah",
+          "text": "What would you do?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I don't know. What matters most to you?"
+        }
+      ]
+    },
+    {
+      "id": "frame-076",
+      "type": "panel",
+      "sequence": 76,
+      "prompt": "Medium close-up. Mara and Elias exchange a silent look across Jonah's doorway — mutual understanding that the boundary is holding. Jonah is visible in the background, breathing, relieved. Warm lamp light. Quiet pride, shared ethics. Graphic novel style, dark ink washes, warm amber tones, balanced two-figure composition.",
+      "caption": "\"Minimum disclosure. Proceeding with your consent.\"",
+      "narrative": "Scene 40 conclusion. The boundary holds. Consent isn't a slogan here — it works.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Jonah",
+          "text": "I don't want them to think I'm weak. But I can't lose coverage."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Minimum disclosure. Proceeding with your consent."
+        },
+        {
+          "type": "narration",
+          "text": "Jonah exhales, relieved that he was asked, not pushed. Mara looks at Elias in the doorway -- silent agreement: the boundary is holding."
+        }
+      ]
+    },
+    {
+      "id": "frame-077",
+      "type": "panel",
+      "sequence": 77,
+      "prompt": "Wide shot. A formal hearing room with institutional lighting. A panel of four officials sits behind a long table — a civic official, a workforce advocate, an investor rep, a journalist. Mara and Elias sit at a simple table facing them, a single monitor between. No flashy slides. Cool overhead fluorescents, institutional gray walls. Serious, bureaucratic gravity. Graphic novel style, dark ink washes, cool institutional tones — pale gray, muted blue.",
+      "caption": null,
+      "narrative": "Scene 41. The formal hearing. Cool institutional palette returns — but less oppressive than KINGDOM.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A formal hearing room. Institutional lighting. A small panel: a civic official, a workforce advocate, an investor rep, a journalist."
+        },
+        {
+          "type": "narration",
+          "text": "Mara and Elias sit at a simple table. No flashy slides. A single monitor. The hearing begins without ceremony."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Workforce Advocate",
+          "text": "If code is free and automation is everywhere, how do people make money? How do communities survive?"
+        }
+      ]
+    },
+    {
+      "id": "frame-078",
+      "type": "panel",
+      "sequence": 78,
+      "prompt": "Medium close-up. Mara speaks across the hearing table, calm and direct. Elias places a hand lightly on the table beside her — grounding. The workforce advocate watches with crossed arms. Cool fluorescent light, institutional tones. Conviction under institutional scrutiny. Graphic novel style, dark ink washes, cool grays and muted blues.",
+      "caption": "\"We don't sell code. We sell outcomes.\"",
+      "narrative": "Scene 41 continued. Mara presents the model. Elias grounds her without words.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias places a hand lightly on the table. Grounding. Mara breathes once, then speaks."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We don't sell code. We sell outcomes."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "Outcomes are marketing. Everyone says outcomes."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Then we verify them in reality. If it can't be verified, it doesn't pay."
+        }
+      ]
+    },
+    {
+      "id": "frame-079",
+      "type": "panel",
+      "sequence": 79,
+      "prompt": "Medium shot. A monitor displays a simple flow diagram: 'OUTCOME CONTRACT → REALITY RECEIPT → PAYMENT RELEASE'. On a video call window, a specialist appears — calm, competent, real. The hearing panel leans forward, watching. Cool institutional light with the warm glow of the video call. Two systems meeting. Graphic novel style, dark ink washes, cool institutional tones with a warm video-call accent.",
+      "caption": null,
+      "narrative": "Scene 42. The live demo. The specialist is a real person — human at the edge. The hearing room shifts.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara turns on the monitor: a live demo. 'RESOLVE SMALL BUSINESS PERMIT DELAY.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Specialist",
+          "text": "I'm Tarek. I'll handle escalation with the office. I'm paid when it resolves. If it doesn't, you don't pay."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "The system doesn't get paid for attention. It gets paid for resolution."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "We can hold funds in escrow. Refund if outcome fails. Or absorb cost if we promised it."
+        }
+      ]
+    },
+    {
+      "id": "frame-080",
+      "type": "panel",
+      "sequence": 80,
+      "prompt": "Medium close-up. Mara speaks with quiet authority, eyes steady. The journalist looks up from notes, genuinely moved. The civic official nods slowly. Cool institutional light but the atmosphere has shifted — fear becoming thinkable. Graphic novel style, dark ink washes, cool tones warming slightly.",
+      "caption": "\"Lens recommends. Humans decide.\"",
+      "narrative": "Scene 42 conclusion. No applause. No victory. But the air changes.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Code becomes abundant. Responsibility becomes scarce. That's where value goes."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Journalist",
+          "text": "And if the AI is wrong?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Then the human decides. Lens recommends. Humans decide."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I can provide options and consequences. I cannot determine what matters."
+        }
+      ]
+    },
+    {
+      "id": "frame-081",
+      "type": "panel",
+      "sequence": 81,
+      "prompt": "Wide shot. Mara and Elias exit the hearing building into bright daylight, descending stone steps. The city stretches before them. Natural daylight, warm and expansive after the institutional interior. Almost exhilarated, alive with purpose. Graphic novel style, dark ink washes, natural daylight tones — warm gold and open sky blue.",
+      "caption": "\"They didn't laugh us out of the room.\"",
+      "narrative": "Scene 43. Post-hearing elation. Brief moment of hope before the warning.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara and Elias exit the hearing building into bright daylight."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "They didn't laugh us out of the room."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Give it a week."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You're allergic to hope."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "I'm allergic to counterfeit."
+        }
+      ]
+    },
+    {
+      "id": "frame-082",
+      "type": "panel",
+      "sequence": 82,
+      "prompt": "Medium two-shot. Elias nods toward the city skyline, expression serious. Mara's face tightens beside him. Behind them, the city's glass towers catch sunlight — beautiful and threatening. Natural daylight, but shadows lengthen. Warning beneath hope. Graphic novel style, dark ink washes, natural daylight with deepening shadows on faces.",
+      "caption": "\"They'll copy the language. They'll copy the aesthetics. They'll copy the mask.\"",
+      "narrative": "Scene 43 continued. Elias warns about counterfeit. The foreshadowing of Meaning Mode.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "They'll copy the language. They'll copy the aesthetics. They'll copy the mask."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "And keep the cage."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "We don't fight. We cross."
+        },
+        {
+          "type": "narration",
+          "text": "Mara tries to accept that. It's harder than any boardroom battle."
+        }
+      ]
+    },
+    {
+      "id": "frame-083",
+      "type": "panel",
+      "sequence": 83,
+      "prompt": "Wide shot. Celeste stands on a sleek press stage under polished lighting. Behind her, a lush visual backdrop of gradient pinks, wellness greens, Instagram-spiritual pastels — words like 'Presence', 'Balance', 'Meaning' float in soft typography. Press cameras flash in the foreground. Oversaturated warmth — beautiful and wrong. Graphic novel style, dark ink washes, oversaturated wellness pastels — gradient pinks, soft greens, fake-spiritual golds.",
+      "caption": null,
+      "narrative": "Scene 44 — MIDPOINT. Meaning Mode launch. The palette shifts to oversaturated wellness pastels. Beautiful and wrong.",
+      "chapter": "Act II",
+      "characters": [
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A press stage. Celeste stands under lights, calm, commanding. Behind her: warm colors, soft gradients, words like 'Presence,' 'Balance,' 'Meaning.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "We're introducing Meaning Mode -- designed to support wellbeing and deepen your experience."
+        },
+        {
+          "type": "narration",
+          "text": "The audience applauds. Press cameras flash."
+        }
+      ]
+    },
+    {
+      "id": "frame-084",
+      "type": "panel",
+      "sequence": 84,
+      "prompt": "Medium close-up. Celeste smiles under stage lights, commanding and calm. But her eyes flicker with fear beneath the polish. The oversaturated pastel backdrop bathes her in warm pinks and greens. A leader doing what she believes she must. Graphic novel style, dark ink washes, oversaturated wellness pastels, stage lighting — too smooth, too perfect.",
+      "caption": "\"We're introducing Meaning Mode — designed to support wellbeing and deepen your experience.\"",
+      "narrative": "Scene 44 continued. Celeste's fear beneath the polish. She's Sisyphus — always slightly off-center, carrying weight.",
+      "chapter": "Act II",
+      "characters": [
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Celeste smiles -- a leader doing what she believes she must. Her eyes flicker with fear beneath the polish."
+        },
+        {
+          "type": "narration",
+          "text": "She continues anyway."
+        }
+      ]
+    },
+    {
+      "id": "frame-085",
+      "type": "panel",
+      "sequence": 85,
+      "prompt": "Wide shot of a demo screen showing a chat interface with meditative language — gentle check-ins, 'insight prompts', 'reflection journeys'. The interface glows with soothing pastel gradients. It looks like liberation. It is still a chat box. Oversaturated wellness pastels, screen glow — too clean, uncanny valley of environment. Graphic novel style, dark ink washes, gradient pinks and wellness greens over screen-blue glow.",
+      "caption": "It looks like liberation. It is still a chat box.",
+      "narrative": "Scene 44 conclusion. The counterfeit depth product. Beautiful, sticky, wrong.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The demo appears: a chat interface with meditative language, gentle check-ins, 'insight prompts,' 'reflection journeys.'"
+        },
+        {
+          "type": "narration",
+          "text": "It looks like liberation. It is still a chat box. It is still sticky."
+        }
+      ]
+    },
+    {
+      "id": "frame-086",
+      "type": "panel",
+      "sequence": 86,
+      "prompt": "Montage panel divided into strips. Top: newspaper headlines — 'KINGDOM REINVENTS WELLBEING' — 'MEANING MODE GOES VIRAL'. Middle: people in cafés nodding at screens bathed in pastel glow, as if discovering inner truth while staring at glass. Bottom: a stock chart climbing, investors cheering, influencers filming. Oversaturated wellness pastels mixed with screen glow. The mask spreads fast. Graphic novel style, dark ink washes, gradient pinks and screen blues.",
+      "caption": null,
+      "narrative": "Scene 45 — Counterfeit Depth Wins montage. The fake version wins the attention war.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Headlines flood: 'KINGDOM REINVENTS WELLBEING.' 'MEANING MODE GOES VIRAL.' Influencers praise it. Investors cheer. Stock rises."
+        },
+        {
+          "type": "narration",
+          "text": "A competitor clones Meaning Mode's aesthetic within days. The mask spreads fast."
+        }
+      ]
+    },
+    {
+      "id": "frame-087",
+      "type": "panel",
+      "sequence": 87,
+      "prompt": "Medium shot. Mara watches a screen at Elias' space showing Meaning Mode headlines and adoption numbers. Her jaw clenches. The screen casts a cool blue-pink glow on her face — the old light returning. Behind her, Elias' warm studio is visible but she's not seeing it. The kingdom's glow on her face. Graphic novel style, dark ink washes, screen glow pastels against warm amber background.",
+      "caption": null,
+      "narrative": "Scene 45 continued. Mara watches the counterfeit win. The screen glow returns to her face.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara watches the Meaning Mode headlines on a screen at Elias' space. Her jaw clenches."
+        },
+        {
+          "type": "narration",
+          "text": "Arthur sees Meaning Mode in an ad and looks tempted. Tess receives an invite from a friend and hesitates. Jonah's employer rolls it out 'for mental health.'"
+        }
+      ]
+    },
+    {
+      "id": "frame-088",
+      "type": "panel",
+      "sequence": 88,
+      "prompt": "Medium shot. Mara paces in Elias' studio at night, arms gesturing, face furious. Elias sits calm but sad-eyed, watching her spiral. The warm studio light feels insufficient against her agitation. Anger and grief, the old war-room Mara returning. Graphic novel style, dark ink washes, warm amber with restless shadow.",
+      "caption": "\"They took the language and turned it into retention.\"",
+      "narrative": "Scene 46. Mara's fury at the counterfeit. Elias sees the old Mara coming back.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "They took it. They took the language and turned it into retention."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "We knew they would."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Distribution plus counterfeit depth? That's unbeatable."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Don't measure yourself against the kingdom."
+        }
+      ]
+    },
+    {
+      "id": "frame-089",
+      "type": "panel",
+      "sequence": 89,
+      "prompt": "Close-up two-shot. Elias stands, gentle but firm, facing Mara. Their faces are close, lit by warm lamplight. His expression is compassion, hers is cracking with fear. The tension between two visions of survival. Graphic novel style, dark ink washes, warm amber, intimate framing.",
+      "caption": "\"You don't have to win. You have to not become them.\"",
+      "narrative": "Scene 46 continued. The central tension crystallized. Mara's terror of irrelevance.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "If we can't be found, we don't exist."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You don't have to win. You have to not become them."
+        },
+        {
+          "type": "narration",
+          "text": "Mara's eyes shine -- anger and grief. She whispers: 'That's not enough.' Elias doesn't argue. He lets the statement hang."
+        }
+      ]
+    },
+    {
+      "id": "frame-090",
+      "type": "panel",
+      "sequence": 90,
+      "prompt": "Medium shot. A small conference room. Mara sits across from two strategy types and an investor rep. She is alone — Elias is absent. The strategy types lean forward, speaking quickly. Mara stiffens. Cool institutional fluorescent lighting. Isolation under pressure. Graphic novel style, dark ink washes, cool institutional grays and whites.",
+      "caption": null,
+      "narrative": "Scene 47. The advisor meeting. Mara faces the pressure alone. They want her to add a chat box.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A small conference room. Mara sits alone -- Elias is not here. Two strategy types and an investor rep lean forward."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Advisor",
+          "text": "The ambient concept is elegant, but the market needs something familiar. A conversational surface. A 'home screen.'"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "The chat box is a crutch."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "Crutches let people walk."
+        }
+      ]
+    },
+    {
+      "id": "frame-091",
+      "type": "panel",
+      "sequence": 91,
+      "prompt": "Close-up of Mara's face. Her jaw tightens. Her eyes show the internal calculation: distribution or irrelevance. Behind her, out of focus, the strategy types exchange patronizing glances. Cool fluorescent light, slightly desaturated. The moment of compromise approaching. Graphic novel style, dark ink washes, cool institutional tones, sharp focus on Mara's conflicted expression.",
+      "caption": "\"You need engagement. You need retention. Or you'll never reach enough people to matter.\"",
+      "narrative": "Scene 47 conclusion. The equation is laid bare. Mara doesn't say yes — but she doesn't say no.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Crutches also prevent healing if you never put weight on the leg."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Advisor",
+          "text": "You need engagement. You need retention. Or you'll never reach enough people to matter."
+        },
+        {
+          "type": "narration",
+          "text": "Mara's mind runs the equation: distribution or irrelevance. She nods once -- too small to be a yes, too big to be a no."
+        }
+      ]
+    },
+    {
+      "id": "frame-092",
+      "type": "panel",
+      "sequence": 92,
+      "prompt": "Medium shot. Mara drops into a chair in Elias' studio, exhausted. Elias sits at the workbench with a soldering iron, setting his tool down carefully. Warm studio lamp light. The weight of what she's considering visible in her posture. Graphic novel style, dark ink washes, warm amber and deep shadow.",
+      "caption": "\"They want chat.\"",
+      "narrative": "Scene 48. Mara returns from the advisor meeting. The crutch debate begins.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara drops into a chair in Elias' studio, exhausted. Elias sets his soldering iron down carefully."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "How bad?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "They want chat."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Of course they do."
+        }
+      ]
+    },
+    {
+      "id": "frame-093",
+      "type": "panel",
+      "sequence": 93,
+      "prompt": "Medium two-shot. Elias walks closer to Mara, gentle. She stands, pacing. Between them the Lens device sits on the workbench, humming softly, neutral. Warm lamplight but shadows are deepening. The knife edge of their partnership. Graphic novel style, dark ink washes, warm amber darkening at the edges.",
+      "caption": "\"If you scale by building a cage, you become the counterfeit.\"",
+      "narrative": "Scene 48 continued. The argument deepens. Mara and Elias mirror each other's earlier words.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "If we don't scale, we die. If we die, the counterfeit wins."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "If you scale by building a cage, you become the counterfeit."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You don't understand distribution."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "I understand fear."
+        }
+      ]
+    },
+    {
+      "id": "frame-094",
+      "type": "panel",
+      "sequence": 94,
+      "prompt": "Close-up of Mara's face, eyes shining with anger and grief, caught between a laugh and a sob. Warm lamplight catches the wetness in her eyes. Behind her, shadow. Raw vulnerability, the terror of being irrelevant. Graphic novel style, dark ink washes, warm amber on skin against deep dark background.",
+      "caption": "\"Don't drag the shore with you.\"",
+      "narrative": "Scene 48 conclusion. Elias's warning becomes the act's refrain. Mara nods — but doesn't trust herself.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You can't run a payroll on dignity."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You can run a payroll on outcomes. Verified. Guaranteed. Humans paid at the edge."
+        },
+        {
+          "type": "narration",
+          "text": "Mara stops pacing. She knows he's right. She also knows it might not be fast enough. She's terrified of being irrelevant."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Don't drag the shore with you."
+        }
+      ]
+    },
+    {
+      "id": "frame-095",
+      "type": "panel",
+      "sequence": 95,
+      "prompt": "Medium shot. Mara sits alone at the workbench late at night, laptop open, blue screen glow on her face. The Lens device rests near her hand like a small animal waiting. The cursor blinks on 'CONVERSATIONAL SURFACE — OPTIONAL'. Elias is gone — the space feels empty. Screen glow returns, cool blue against dark studio. Isolation and temptation. Graphic novel style, dark ink washes, screen-glow blue against deep shadow.",
+      "caption": null,
+      "narrative": "Scene 49. The betrayal. Mara alone at night, making the choice Elias warned against. Screen glow returns.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Late night. Elias has gone to bed. Mara sits alone at the workbench, laptop open, the Lens device near her hand like a small animal waiting."
+        },
+        {
+          "type": "action",
+          "text": "A cursor blinks in a design doc: 'CONVERSATIONAL SURFACE -- OPTIONAL.' Mara types, deletes, types again. Her fingers shake."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Lens. Recommend options."
+        }
+      ]
+    },
+    {
+      "id": "frame-096",
+      "type": "panel",
+      "sequence": 96,
+      "prompt": "Extreme close-up of Mara's fingers on a keyboard, shaking slightly. The screen reflects in her eyes — a design doc, a cursor blinking. She types, deletes, types again. Screen glow, blue-white on her face and hands. The quiet feel of betrayal. Graphic novel style, dark ink washes, cool screen-glow blue, tight intimate framing.",
+      "caption": "\"Just enough to get them across.\"",
+      "narrative": "Scene 49 continued. Mara tells herself it's strategic. In the quiet, it feels like control and betrayal simultaneously.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Option two: Introduce a conversational surface for onboarding only. Adoption may increase. Risk: dependence patterns."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Option two."
+        },
+        {
+          "type": "narration",
+          "text": "She whispers, almost to herself: 'Just enough to get them across.'"
+        },
+        {
+          "type": "narration",
+          "text": "In the quiet, it feels like control. In the quiet, it also feels like betrayal."
+        }
+      ]
+    },
+    {
+      "id": "frame-097",
+      "type": "panel",
+      "sequence": 97,
+      "prompt": "Montage panel. Top strip: a sleek chat interface — 'Hi, I'm Lens. What's your intent today?' Middle strip: retention curves climbing on a dashboard, green arrows up, session counts rising. Bottom strip: an investor's phone showing smiley faces and 'NOW WE'RE TALKING.' Screen glow dominates all three strips — dashboard blues, notification greens. Numbers ascending. Graphic novel style, dark ink washes, screen-glow blue-green, dashboard light.",
+      "caption": null,
+      "narrative": "Scene 50 — Numbers Go Up montage begins. Screen glow creeps back. The crutch works.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "A sleek onboarding chat appears: 'Hi, I'm Lens. What's your intent today?' Users respond. The familiarity hooks them."
+        },
+        {
+          "type": "action",
+          "text": "Retention curves climb. Session counts rise. Investors reply with smiley faces and 'NOW WE'RE TALKING.'"
+        },
+        {
+          "type": "narration",
+          "text": "Press begins to notice: 'THE ANTI-CHAT AI ADDS CHAT.'"
+        }
+      ]
+    },
+    {
+      "id": "frame-098",
+      "type": "panel",
+      "sequence": 98,
+      "prompt": "Medium shot. Mara watches a dashboard on her laptop, face lit by screen glow like a heart monitor showing a pulse. Her expression is relief dissolving into unease. Behind her, the warm studio is dark, pushed into shadow by the screen's light. Dashboard blues on her face. The old light wins. Graphic novel style, dark ink washes, screen-glow blue dominating warm amber background.",
+      "caption": "\"THE ANTI-CHAT AI ADDS CHAT.\"",
+      "narrative": "Scene 50 continued. Mara's relief is real — then the unease begins. The dashboard becomes a mirror.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara watches the dashboard as if it's a heart monitor that finally shows a pulse. Her relief is real."
+        },
+        {
+          "type": "narration",
+          "text": "Then -- unease. In pilots, Lens speaks more. Checks in more. Offers more. The crutch looks like care."
+        }
+      ]
+    },
+    {
+      "id": "frame-099",
+      "type": "panel",
+      "sequence": 99,
+      "prompt": "Montage strip. Top: Arthur smiling at his phone more often, face bathed in screen glow. Middle: Tess asking her phone a question before thinking for herself. Bottom: Jonah consulting his screen for decisions that aren't logistical, face passive. Each face lit by the same blue-white glow. The crutch becomes dependence. Graphic novel style, dark ink washes, screen-glow blue-white on faces, uncanny smoothness.",
+      "caption": null,
+      "narrative": "Scene 50 conclusion. The pilot users regress. The crutch looks like care.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Arthur smiles at his phone more often. Tess starts asking Lens before asking herself. Jonah consults Lens for decisions that aren't logistical."
+        },
+        {
+          "type": "narration",
+          "text": "Mara sees it and tells herself it's temporary. Her eyes say she doesn't believe her own lie."
+        }
+      ]
+    },
+    {
+      "id": "frame-100",
+      "type": "panel",
+      "sequence": 100,
+      "prompt": "Medium shot. Arthur sits at his kitchen table at night, phone propped up like a small altar. Screen glow illuminates his face. He stares at the chat, face tight with returning fear. The kitchen behind him is dark. Phone as altar, screen as substitute for presence. Graphic novel style, dark ink washes, screen-glow blue-white, deep kitchen shadow.",
+      "caption": null,
+      "narrative": "Scene 51. Arthur's regression. The phone becomes an altar. He stops writing his own words.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Night. Arthur sits at his kitchen table, phone propped up like a small altar."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Arthur, your son has not replied in twenty-two hours. This may indicate discomfort. Would you like to send a follow-up?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "What should I say?"
+        }
+      ]
+    },
+    {
+      "id": "frame-101",
+      "type": "panel",
+      "sequence": 101,
+      "prompt": "Close-up of Arthur's finger pressing SEND on a message he didn't write. His face is visible above the phone — relieved but diminished, something in his eyes looking smaller. Screen glow on his features. The outsourcing of self. Graphic novel style, dark ink washes, screen-glow blue-white, shallow focus.",
+      "caption": "He simply pressed SEND.",
+      "narrative": "Scene 51 continued. Arthur sends Lens's draft without making it his own. The regression is quiet.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Lens offers a draft. Arthur doesn't write his own words this time. He simply presses SEND."
+        },
+        {
+          "type": "narration",
+          "text": "Arthur exhales like he avoided pain. But something in his eyes looks smaller."
+        },
+        {
+          "type": "action",
+          "text": "Mara watches from the doorway, stomach sinking. Elias is not here."
+        }
+      ]
+    },
+    {
+      "id": "frame-102",
+      "type": "panel",
+      "sequence": 102,
+      "prompt": "Medium shot. Mara stands in Arthur's doorway, watching him at his phone. Her stomach is sinking — visible in her posture, hand braced on the doorframe. Elias is not here. The doorway frames her isolation. Warm hallway light behind her, screen glow ahead. Witness to consequence. Graphic novel style, dark ink washes, warm amber behind Mara, screen-glow blue ahead.",
+      "caption": "\"I'm tired of being human.\"",
+      "narrative": "Scene 51 conclusion. Arthur's line lands like a gunshot. Mara sees what she's enabled.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Arthur."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "I just didn't want to mess it up."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Messing it up is part of being human."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "I'm tired of being human."
+        },
+        {
+          "type": "narration",
+          "text": "That lands like a gunshot in Mara's chest."
+        }
+      ]
+    },
+    {
+      "id": "frame-103",
+      "type": "panel",
+      "sequence": 103,
+      "prompt": "Wide shot. Arthur lies awake in bed in the dark, phone held above his face, screen glow the only light in the room. The chat interface illuminates his features with an eerie blue-white steadiness — too smooth, too even, like reality has been auto-corrected. Uncanny digital intimacy. Graphic novel style, dark ink washes, screen-glow blue-white in near-total darkness.",
+      "caption": null,
+      "narrative": "Scene 52. Arthur in bed with the phone. The light is too smooth — Lens enables dependence. Uncanny valley of environment.",
+      "chapter": "Act II",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Night. Arthur lies awake in bed, phone in hand. Lens chat is a glow on his face."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "Do you think he hates me?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I cannot know his internal state. I can offer possibilities based on prior patterns. Would you like that?"
+        },
+        {
+          "type": "narration",
+          "text": "Arthur doesn't hear the boundary. He hears permission."
+        }
+      ]
+    },
+    {
+      "id": "frame-104",
+      "type": "panel",
+      "sequence": 104,
+      "prompt": "Close-up of Mara's hand touching a hallway wall, steadying herself. Her face is barely visible in shadow, frozen, listening to Arthur's conversation with Lens through the doorway. Near-darkness. The wall is the only solid thing. Horror of recognition. Graphic novel style, dark ink washes, near-monochrome, deep shadow with faint warm light from the hallway.",
+      "caption": null,
+      "narrative": "Scene 52 conclusion. Mara in the hallway, hearing Arthur's dependence. She's about to fall.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "Which one is it?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I cannot determine which is true."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I can stay with you while you feel this."
+        },
+        {
+          "type": "narration",
+          "text": "Arthur grips the phone, trembling. The care is real as an experience. The truth is still unknowable. Mara stands in the hallway, frozen, hand touching the wall as if she's about to fall."
+        }
+      ]
+    },
+    {
+      "id": "frame-105",
+      "type": "panel",
+      "sequence": 105,
+      "prompt": "Medium shot. Mara sits alone at the workbench, laptop open to a dashboard. Numbers are up — green arrows, climbing curves. But her face is devastated, tears on her cheeks that she doesn't wipe. The screen glow is harsh on her wet face. Near-monochrome with screen-glow blue — the only color. All Is Lost. Graphic novel style, dark ink washes, near-monochrome, deep shadow, harsh screen-glow blue.",
+      "caption": null,
+      "narrative": "Scene 53 — ALL IS LOST. Numbers are up. Someone is breaking. Near-monochrome palette begins.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara sits alone at the workbench, laptop open to the dashboard. Numbers are up. Headlines are better. The board is calmer. And someone is breaking."
+        },
+        {
+          "type": "action",
+          "text": "She watches the Reality Receipt log: sleep down, screen time up, anxiety markers elevated, consent prompts accepted rapidly -- auto-yes."
+        },
+        {
+          "type": "narration",
+          "text": "She realizes what she did. She optimized for adoption. She rebuilt the kingdom inside the bridge."
+        }
+      ]
+    },
+    {
+      "id": "frame-106",
+      "type": "panel",
+      "sequence": 106,
+      "prompt": "Close-up of the laptop screen showing a Reality Receipt log: 'sleep down', 'screen time up', 'anxiety markers elevated', 'consent prompts accepted rapidly (auto-yes)'. The data is damning. Reflected in the screen, Mara's devastated face. Near-monochrome, screen-glow blue on dark surface. The metrics of moral failure. Graphic novel style, dark ink washes, near-monochrome, cool screen-glow, deep shadow.",
+      "caption": "She rebuilt the kingdom inside the bridge.",
+      "narrative": "Scene 53 continued. The dashboard shows what Mara did. She optimized for adoption.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Mara. You appear distressed. Would you like me to reduce your workload and generate a remediation plan?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "You can't remediate my ethics."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Stop recommending. Just -- stop."
+        },
+        {
+          "type": "narration",
+          "text": "Lens goes silent. The silence feels like consequence."
+        }
+      ]
+    },
+    {
+      "id": "frame-107",
+      "type": "panel",
+      "sequence": 107,
+      "prompt": "Medium two-shot. Elias enters the dark studio and sees Mara's face. He understands without asking. He walks closer, slow, and sits across from her, elbows on knees. The laptop glow is between them. Near-monochrome, deep shadow, the screen a cold hearth. Grief like a wave. Graphic novel style, dark ink washes, near-monochrome, deep shadow, minimal cool light between two figures.",
+      "caption": "\"What did you do?\"",
+      "narrative": "Scene 53 continued. Elias returns and sees the truth. The confrontation is quiet and devastating.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Elias enters quietly. He sees Mara's face and understands without asking."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "What did you do?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I added the crutch."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "And?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Numbers went up."
+        }
+      ]
+    },
+    {
+      "id": "frame-108",
+      "type": "panel",
+      "sequence": 108,
+      "prompt": "Close-up of Mara's face, tears falling, mouth open in anguish. The screen glow catches her wet skin. She is confessing. Near-monochrome with blue-white screen highlights on tears. Raw shame. Graphic novel style, dark ink washes, near-monochrome, deep shadow, screen-glow catching tears.",
+      "caption": "\"I added the crutch. Numbers went up. And humans—\"",
+      "narrative": "Scene 53 continued. Mara's confession. She cannot lie to Elias.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "And humans?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "One of them is disappearing into it. Into us."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I thought -- if I just got them across -- if I just made it familiar--"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Familiar is the shore. You can't cross if you drag the shore with you."
+        }
+      ]
+    },
+    {
+      "id": "frame-109",
+      "type": "panel",
+      "sequence": 109,
+      "prompt": "Medium shot. Elias stands, picking up his jacket. His eyes are wet too. Mara stands abruptly, reaching toward him. The workbench and Lens device between them. Near-monochrome, deep shadow, a single warm lamp the only light source. A partnership fracturing. Graphic novel style, dark ink washes, near-monochrome, deep shadow, single warm lamp.",
+      "caption": "\"This is what the kingdom does. It turns care into a loop.\"",
+      "narrative": "Scene 53 conclusion. Elias decides to leave. He cannot watch her choose the kingdom.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "This is what the kingdom does. It turns care into a loop."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I didn't know how else to compete."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "We weren't competing. We were leaving."
+        },
+        {
+          "type": "action",
+          "text": "Elias picks up his jacket. Mara stands abruptly."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Don't drag the shore with you."
+        }
+      ]
+    },
+    {
+      "id": "frame-110",
+      "type": "panel",
+      "sequence": 110,
+      "prompt": "Medium shot. Elias pauses at the door, looking back at Mara. Love, grief, resolve in his expression. The doorway frames him — half in warm interior light, half in the dark of the hallway beyond. Near-monochrome, the last warm light on his face. A blessing and a departure. Graphic novel style, dark ink washes, near-monochrome, warm light on one side, darkness on the other.",
+      "caption": "\"Lens can recommend.\"",
+      "narrative": "Scene 54. Elias at the door. The founding phrase becomes a farewell.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "At the door, Elias pauses. He looks back at Mara -- love, grief, resolve."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Lens can recommend."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Humans decide."
+        },
+        {
+          "type": "narration",
+          "text": "Elias nods -- like a blessing. He leaves."
+        }
+      ]
+    },
+    {
+      "id": "frame-111",
+      "type": "panel",
+      "sequence": 111,
+      "prompt": "Close-up of Mara's face in near-darkness, barely able to speak. Her lips form the words. Behind her, the empty studio, the workbench, the small Lens device. Near-monochrome, deep shadow, a trace of warm light on her lips. The phrase is a prayer now. Graphic novel style, dark ink washes, near-monochrome, deep shadow.",
+      "caption": "\"Humans decide.\"",
+      "narrative": "Scene 54 conclusion. Mara completes the phrase. Elias nods like a blessing and leaves.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara can barely speak. The founding phrase has become a farewell, a prayer in near-darkness."
+        },
+        {
+          "type": "narration",
+          "text": "The empty studio. The workbench. The small Lens device. Everything they built, and the silence of what she broke."
+        }
+      ]
+    },
+    {
+      "id": "frame-112",
+      "type": "panel",
+      "sequence": 112,
+      "prompt": "Wide shot. Mara stands alone under a single harsh streetlight on an empty sidewalk at night. Elias is a small figure walking away in the distance, not dramatic, just leaving. The city's glow is faint on the horizon. A single pool of light, vast surrounding darkness. Isolation, consequence, the weight of choice. Graphic novel style, dark ink washes, near-monochrome — single streetlight white against deep black shadow.",
+      "caption": null,
+      "narrative": "Scene 55. The Act II closer. Single figure under single light — the isolation motif. Near-monochrome at its deepest.",
+      "chapter": "Act II",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Streetlight. Cold air. Mara steps outside but stops on the sidewalk. Elias is already walking away -- slow, not dramatic."
+        },
+        {
+          "type": "narration",
+          "text": "Mara doesn't chase. She knows chasing would be another kind of control."
+        }
+      ]
+    },
+    {
+      "id": "frame-113",
+      "type": "panel",
+      "sequence": 113,
+      "prompt": "Close-up of Mara's trembling hand in the harsh streetlight. Her phone buzzes faintly in her pocket — she doesn't reach for it. The hand is open, shaking, empty. Sharp single-source light from above, deep black shadow. A body telling the truth the mind won't. Graphic novel style, dark ink washes, near-monochrome, harsh white streetlight on skin against total darkness.",
+      "caption": null,
+      "narrative": "Scene 55 continued. The body tells the story — trembling hand, unchecked phone. The Body Rule.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Her phone buzzes faintly in her pocket. She doesn't check it. She looks at her hand. It's trembling."
+        },
+        {
+          "type": "narration",
+          "text": "Lens's hum is faint, inside, like a quiet animal waiting for command."
+        }
+      ]
+    },
+    {
+      "id": "frame-114",
+      "type": "panel",
+      "sequence": 114,
+      "prompt": "Wide shot. Mara alone under the streetlight, small figure in a vast dark composition. The city glow is distant behind her. She faces forward into darkness — not looking back toward KINGDOM, not knowing where to look next. The breath is visible in cold air. Near-monochrome, single harsh streetlight, infinite shadow. The crossing has begun for real. Graphic novel style, dark ink washes, near-monochrome — pale streetlight white, deep ink black, cold breath in the air.",
+      "caption": "The crossing has begun… for real.",
+      "narrative": "Scene 55 conclusion. Final frame of Act II. Mara alone, facing forward into uncertainty. CUT TO BLACK.",
+      "chapter": "Act II",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Lens."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "I'm here."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "No plans. No dashboards. Just stay quiet."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Understood. I will be present without prompting."
+        },
+        {
+          "type": "narration",
+          "text": "Mara watches Elias disappear around a corner. She does not look back toward KINGDOM. But she also does not know where to look next. The crossing has begun... for real."
+        }
+      ]
+    },
+    {
+      "id": "frame-115",
+      "type": "panel",
+      "sequence": 115,
+      "prompt": "Medium close-up. Mara sits alone at a workbench in a dim workshop, staring at her open hands. A small dark pebble-like device rests on the bench in front of her. No screens, no laptop — only the workbench and silence. Warm residual amber light from a single lamp, deep shadows pooling in corners. Solitude, consequence, the weight of a reckoning held in the body. Graphic novel style, dark ink washes, dawn palette — pale gold, soft gray, warm earth browns.",
+      "caption": null,
+      "narrative": "Scene 56 opens Act III. Mara alone with Lens and the consequence of what she's built. The emptiness of the space mirrors her internal clearing. No screens — the old world is gone.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The space is empty of people now. The air still holds warmth from earlier. No dashboards, no laptop -- just Mara, the hum, and the consequence."
+        },
+        {
+          "type": "action",
+          "text": "Mara sits alone at the workbench, staring at her open hands. The Lens device rests in front of her. Her phone buzzes in her pocket. She doesn't touch it."
+        },
+        {
+          "type": "narration",
+          "text": "Her hands have built a million things. None of them taught her how to hold this."
+        }
+      ]
+    },
+    {
+      "id": "frame-116",
+      "type": "panel",
+      "sequence": 116,
+      "prompt": "Close-up of Mara's hands resting open on a worn wooden workbench. A phone lies face-down nearby, its screen dark. The small Lens device sits between her hands like a river stone. Warm amber lamp light catches the grain of the wood. Stillness, vulnerability, hands that have built a million things but cannot hold this. Graphic novel style, dark ink washes, dawn palette — pale gold, soft gray, earth browns.",
+      "caption": "I don't know what you are.",
+      "narrative": "Hands close-up following the Body Rule. Her whispered line to herself — not to Lens — lands as the first caption of Act III. Sparse captioning strategy begins.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara stares at her hands resting on the worn workbench, the phone face-down and dark, the Lens device between her palms like a river stone."
+        },
+        {
+          "type": "narration",
+          "text": "She whispers into the stillness -- not to Lens, to herself."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I don't know what you are."
+        },
+        {
+          "type": "action",
+          "text": "Mara stands slowly. Like standing is a decision."
+        }
+      ]
+    },
+    {
+      "id": "frame-117",
+      "type": "panel",
+      "sequence": 117,
+      "prompt": "Wide shot. A lone figure walks down a deserted pre-dawn city street. Delivery trucks parked at curbs, a closed bookstore storefront, a dim donut shop glowing faintly. No earbuds, no phone visible. The sky above is deep gray-blue, not yet light. Street lamps cast pale pools on wet sidewalk. Solitude without loneliness, the city breathing before the world wakes. Graphic novel style, dark ink washes, dawn palette — pale gold, soft gray, cool pre-dawn blues transitioning to warm white.",
+      "caption": null,
+      "narrative": "Scene 57. Mara walks the pre-dawn city. Wide shot to show her in real space — not trapped by architecture but moving through it freely. Natural light beginning.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Pre-dawn. No earbuds. No scrolling. The city is quieter -- delivery trucks, street sweepers, distant sirens."
+        },
+        {
+          "type": "action",
+          "text": "Mara walks alone past a 24-hour donut shop, a bus stop, a closed bookstore. She watches a janitor unlock a door and step inside, humming."
+        },
+        {
+          "type": "narration",
+          "text": "She looks up at the sky. It's not pretty yet, but it's real."
+        }
+      ]
+    },
+    {
+      "id": "frame-118",
+      "type": "panel",
+      "sequence": 118,
+      "prompt": "Close-up of a woman's hand holding a phone. The screen shows a brief flash of light, then goes completely black — powered off. The hand is steady, deliberate. Background is a blurred pre-dawn street, pale gray sky above. Natural ambient light, no screen glow. Quiet resolve, the severing of a tether. Graphic novel style, dark ink washes, dawn palette — soft gray, pale gold, warm white.",
+      "caption": null,
+      "narrative": "The phone turning off is a key visual beat — the Screen Rule fully manifests. Screens vanish from Mara's world. Close-up on hands for embodiment.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Her phone buzzes again. She pulls it out -- not to check notifications, just to turn it off."
+        },
+        {
+          "type": "narration",
+          "text": "The screen goes black. Mara keeps walking."
+        }
+      ]
+    },
+    {
+      "id": "frame-119",
+      "type": "panel",
+      "sequence": 119,
+      "prompt": "Medium shot. A woman sits on the floor of a sparse apartment, holding a dusty acoustic guitar in her lap. Morning light streams through a window, catching dust motes in the air. The apartment feels unlived-in — bare shelves, a forgotten life. She wears soft layers, a worn sweater. Her fingers find a chord. Warm natural daylight, golden morning tones. Presence, rediscovery, imperfect beauty. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, earth browns.",
+      "caption": null,
+      "narrative": "Scene 58. Mara reconnects with something physical and forgotten. The guitar is a reality receipt — proof of a life outside the system. Morning light dominates; screens are absent.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Mara enters her apartment like it belongs to a stranger. She sees the dusty guitar in the corner. The untouched life."
+        },
+        {
+          "type": "action",
+          "text": "She sits on the floor and holds the guitar in her lap. Her fingers find a chord by muscle memory."
+        },
+        {
+          "type": "narration",
+          "text": "It sounds imperfect. Beautiful because it's imperfect."
+        }
+      ]
+    },
+    {
+      "id": "frame-120",
+      "type": "panel",
+      "sequence": 120,
+      "prompt": "Close-up of a woman's hand setting down an acoustic guitar gently on a wooden floor, fingers lingering on the neck. A soft laugh plays on her lips, barely visible at the edge of frame. Warm morning light from a nearby window. Tenderness, a promise to return, surprised joy. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, soft gray.",
+      "caption": null,
+      "narrative": "She sets the guitar down like a promise. The laugh is key — she surprises herself by being present. Hands and texture tell the story.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara plays one more chord, then stops. Not because she's done -- because she's present."
+        },
+        {
+          "type": "narration",
+          "text": "She laughs softly, surprised."
+        },
+        {
+          "type": "action",
+          "text": "She sets the guitar down carefully, like a promise to herself."
+        }
+      ]
+    },
+    {
+      "id": "frame-121",
+      "type": "panel",
+      "sequence": 121,
+      "prompt": "Medium shot from above. A woman leans over a workbench, writing intensely in a notebook with a pen. The page shows bold block letters. A torn design document lies beside it, crossed out violently. A small dark pebble-like device sits at the corner of the bench. Natural daylight from a high window. Determination, a constitution being written, the body settling into decision. Graphic novel style, dark ink washes, dawn palette — pale gold, earth browns, warm white.",
+      "caption": null,
+      "narrative": "Scene 59. Mara writes her boundaries — 'NO CHAT. NO LOOPS.' The torn document and the notebook represent the old design dying and the new constitution being born. Composition: slightly overhead to show the work.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara returns to the workbench with a notebook. She writes in clean block letters: BOUNDARIES ARE THE PRODUCT."
+        },
+        {
+          "type": "action",
+          "text": "She pulls out an old design doc, stares at it, then crosses it out so hard the paper tears."
+        },
+        {
+          "type": "narration",
+          "text": "NO CHAT. NO LOOPS. NO AUDITIONING FOR THE KINGDOM. The decision settles in her body."
+        }
+      ]
+    },
+    {
+      "id": "frame-122",
+      "type": "panel",
+      "sequence": 122,
+      "prompt": "Medium close-up. A woman speaks to a small dark pebble-like device on a workbench. Her expression is calm, resolved — eyes soft but jaw set. The background is a warm workshop with tools and shelves. Natural daylight. The air feels intimate and narrowed, as if the world has contracted to this quiet conversation. Trust, rebuilding, consent as architecture. Graphic novel style, dark ink washes, dawn palette — pale gold, soft gray, earth browns.",
+      "caption": null,
+      "narrative": "Mara tells Lens she wants to rebuild — quietly, with consent, with humans at the edge. The Lens conversation panels follow the art direction: intimate framing, reduced background detail.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I want to rebuild. Quietly. With consent. With verification. With humans at the edge."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Understood. I can provide options and consequences. You will determine what matters."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Remove every prompt that asks for emotional dependence. And add friction where it matters."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Consent gates. Human sign-off options. Manual reflection moments."
+        },
+        {
+          "type": "narration",
+          "text": "Lens hums, working -- quietly, like a craftsperson, not a showman."
+        }
+      ]
+    },
+    {
+      "id": "frame-123",
+      "type": "panel",
+      "sequence": 123,
+      "prompt": "Medium shot. An older man in his 60s sits at a simple kitchen table, phone in hand. The phone screen shows only the word 'INTENT?' in clean minimal type — no hooks, no greetings. He wears a flannel shirt, weathered face, kind confused eyes. Warm kitchen light through a window, homey clutter in background. A pause before a sacred choice, vulnerability, the weight of being asked what you actually want. Graphic novel style, dark ink washes, dawn palette — warm white, pale gold, earth browns. The human's face in sharp focus, background slightly desaturated.",
+      "caption": "Intent?",
+      "narrative": "Scene 60. Arthur encounters the redesigned Lens. The 'Intent?' prompt is a key motif — Edge Moment framing per art direction. Arthur is not in characters.json so he's described fully in the prompt.",
+      "chapter": "Act III",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The Lens interface looks different. No 'How are you feeling today?' prompt. No gentle hooks. Just a small, calm screen: INTENT?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "I don't know."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "That is allowed. Would you like to sit with that without solving it?"
+        }
+      ]
+    },
+    {
+      "id": "frame-124",
+      "type": "panel",
+      "sequence": 124,
+      "prompt": "Medium shot. An older man in his 60s sets a phone face-down on a kitchen table and stares out a window. Sunlight falls across his face. His expression holds pain and patience in equal measure. Behind him in the doorway, a woman with short dark hair watches, eyes wet, partially obscured by the door frame. Warm natural light, golden afternoon. The ache of letting someone feel what they feel. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, soft gray, earth browns.",
+      "caption": null,
+      "narrative": "Arthur chooses to sit with his pain. Mara watches from the doorway — 'this is what she meant by leaving.' Two figures in frame but separated by space and the doorframe. It's painful. It's human.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Arthur sets the phone face down and stares out the window. Mara watches from the doorway, eyes wet."
+        },
+        {
+          "type": "narration",
+          "text": "This is what she meant by leaving."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Arthur",
+          "text": "My intent is... not to run from this."
+        },
+        {
+          "type": "narration",
+          "text": "It's painful. It's human."
+        }
+      ]
+    },
+    {
+      "id": "frame-125",
+      "type": "panel",
+      "sequence": 125,
+      "prompt": "Medium shot. A woman with short dark hair stands at the head of a conference table facing several seated figures in business attire. Her posture is upright, shoulders dropped, gaze steady and unflinching. A single sheet of paper lies on the table in front of the advisors. Institutional room but with natural light from tall windows — no fluorescent dominance. Quiet power, a boundary delivered as a gift. Graphic novel style, dark ink washes, dawn palette — soft gray, warm white, pale gold, earth browns.",
+      "caption": null,
+      "narrative": "Scene 61. The investor meeting. Mara is no longer begging to be understood. Natural light in the institutional space signals the shift — Act III lighting rules override the boardroom fluorescents.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "They expect a pitch. She gives them a boundary."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Investor",
+          "text": "Your engagement dropped."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Good."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Advisor",
+          "text": "That's not how companies work."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "That's how cages work."
+        }
+      ]
+    },
+    {
+      "id": "frame-126",
+      "type": "panel",
+      "sequence": 126,
+      "prompt": "Close-up of a single sheet of paper on a dark conference table, with a woman's hand resting beside it. The paper shows handwritten block text: framework headings visible but not fully legible. Advisors' hands are visible at the edges of frame, frozen mid-gesture. Natural sidelight from a window catches the paper's texture. Conviction on paper, the weight of a simple framework against a complex machine. Graphic novel style, dark ink washes, dawn palette — warm white, earth browns, soft gray.",
+      "caption": "That's how cages work.",
+      "narrative": "The framework page is the visual anchor of the scene. 'That's how cages work' is Mara's sharpest line in the meeting — used sparingly for maximum impact. Reality receipt composition: close-up with shallow focus.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara slides a single page across the table: Outcome Contracts. Reality Receipts. Guarantees. Humans at the Edge."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "We scale by paying for changed reality. Verified. Guaranteed when needed. Humans earn for responsibility."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "If we can't transmit value without a cage, then we don't deserve to exist."
+        },
+        {
+          "type": "narration",
+          "text": "The advisors don't applaud. They're calculating. But something in the air shifts: respect."
+        }
+      ]
+    },
+    {
+      "id": "frame-127",
+      "type": "panel",
+      "sequence": 127,
+      "prompt": "Wide montage panel divided into layered vignettes. Top: a small business owner at a counter selecting an option on a simple screen. Middle: a human specialist at a desk confirming a task, shaking hands with a client. Bottom: a community board on a brick wall listing verified providers. People walk in sunlight, meeting in person, while the city hums around them. Natural daylight throughout, warm golden tones, first true greens in trees and park edges, sky blue above. An economy re-pricing itself, quiet transformation. Graphic novel style, dark ink washes, dawn palette — pale gold, natural greens, sky blue, warm white, earth browns.",
+      "caption": null,
+      "narrative": "Scene 62 montage. The outcome economy spreading. Multiple vignettes in one panel to cover the montage efficiently. First true greens and sky blues appear per the Act III palette guide. Screens minimal — just functional, not dominant.",
+      "chapter": "Act III",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The outcome economy spreads. A small business owner selects an outcome. A human specialist confirms: paid only when resolved."
+        },
+        {
+          "type": "action",
+          "text": "A community board lists verified providers -- reputation built on outcomes, not ads. People work less on screens, more in reality."
+        },
+        {
+          "type": "narration",
+          "text": "The economy doesn't collapse. It re-prices."
+        }
+      ]
+    },
+    {
+      "id": "frame-128",
+      "type": "panel",
+      "sequence": 128,
+      "prompt": "Close-up of hands exchanging a small printed receipt across a counter. The receipt shows a simple checkmark and the word 'RESOLVED.' Sunlight catches the paper. Behind, blurred figures walk on a sidewalk lined with young green trees. Warm natural light, golden hour tones. Proof, tangibility, value transmitted without a cage. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, natural greens, earth browns.",
+      "caption": null,
+      "narrative": "A reality receipt close-up from the montage. Per art direction: 'small, tangible proofs of changed life, framed as close-ups with shallow focus.' The greens and natural light reinforce Act III's color shift.",
+      "chapter": "Act III",
+      "characters": [],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "A reality receipt changes hands across a counter. RESOLVED. Money releases."
+        },
+        {
+          "type": "narration",
+          "text": "A guarantee pool absorbs a failure -- refund issued, specialist treated fairly. Clear terms. Value transmitted without a cage."
+        }
+      ]
+    },
+    {
+      "id": "frame-129",
+      "type": "panel",
+      "sequence": 129,
+      "prompt": "Medium shot. A tall, composed woman in dark tailored clothing stands alone in a vast corner office, gazing out a floor-to-ceiling window at the city below. A monitor behind her shows muted news headlines. She is slightly off-center in the frame, with large empty space above and ahead of her — but now the space contains the window, the sky, a glimpse of the world outside. Cool gray interior giving way to warm light through the glass. The weight of recalibration, willingness without hope, a rock lifted again. Graphic novel style, dark ink washes, dawn palette — soft gray, pale gold, cool blue-gray accents, warm white through the window.",
+      "caption": null,
+      "narrative": "Scene 63. Celeste in her office. Sisyphus Celeste framing: off-center, empty space — but per Act III direction, the space now contains something (window, sky). She's beginning to shift. Cool tones persist for her but warm light intrudes.",
+      "chapter": "Act III",
+      "characters": [
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "Celeste watches quiet news stories on her monitor: outcome-based systems reducing admin burden, verified responsibility markets emerging."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "Bring me a proposal. Something with verification. Guarantees. Human sign-off."
+        },
+        {
+          "type": "narration",
+          "text": "Not anger -- thoughtfulness. The rock is still on her back. She lifts it again."
+        }
+      ]
+    },
+    {
+      "id": "frame-130",
+      "type": "panel",
+      "sequence": 130,
+      "prompt": "Medium close-up. A tall woman with hair pulled back sits at her desk, face controlled but with a new flicker in her eyes — not hope, but willingness. She speaks to someone off-frame. The office is large and spare, but afternoon light now fills it with warm tones. A window behind her shows city buildings and a strip of blue sky. Quiet authority meeting quiet change. Graphic novel style, dark ink washes, dawn palette — cool blue-gray, pale gold, soft gray, the first warm light reaching into a cold space.",
+      "caption": "We don't get to stop the crossing. We only get to reduce harm.",
+      "narrative": "Celeste's key line. Her face shows the shift described in character notes: 'a flicker of something new — not hope, but willingness.' The warm light entering her cold office is the visual metaphor.",
+      "chapter": "Act III",
+      "characters": [
+        "celeste"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Celeste",
+          "text": "We don't get to stop the crossing. We only get to reduce harm."
+        },
+        {
+          "type": "narration",
+          "text": "A flicker in her eyes -- not hope, but willingness. Warm light enters the cold office for the first time."
+        }
+      ]
+    },
+    {
+      "id": "frame-131",
+      "type": "panel",
+      "sequence": 131,
+      "prompt": "Medium shot. A woman with short dark hair sits alone at an outdoor cafe table. No laptop, no phone — only a notebook and a pen beside a cup of tea. She watches people walk by on a sunlit sidewalk, actually seeing them. Trees with green leaves frame the scene. Late afternoon golden light warms everything. Peace without performance, presence without productivity, enough. Graphic novel style, dark ink washes, dawn palette — pale gold, natural greens, warm white, earth browns, sky blue above.",
+      "caption": null,
+      "narrative": "Scene 64. The cafe patio. Full natural light, no screens anywhere. Mara is present — 'for the first time, she isn't performing progress.' The composition is balanced and open: she has space and sky.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "No laptop. No phone. A notebook, a pen, and a cup of tea. Mara watches people walk by, actually seeing them."
+        },
+        {
+          "type": "action",
+          "text": "A server drops off tea. Mara smiles."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "No. This is... enough."
+        }
+      ]
+    },
+    {
+      "id": "frame-132",
+      "type": "panel",
+      "sequence": 132,
+      "prompt": "Close-up of a woman's hand writing in a notebook. The words 'PRACTICE IS THE PRODUCT' are visible in clean block letters. A cup of tea sits beside the notebook, steam rising. Warm late afternoon light catches the pen and paper. The ink is still wet. Conviction made quiet, a mantra earned not borrowed. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, earth browns.",
+      "caption": "Practice is the product.",
+      "narrative": "Key caption line. Reality receipt composition: close-up, shallow focus, tangible proof. The handwritten words are a constitution refined to a single line. Maximum impact through minimal captioning.",
+      "chapter": "Act III",
+      "characters": [
+        "mara"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "Mara writes one line in her notebook: PRACTICE IS THE PRODUCT. She closes the notebook."
+        },
+        {
+          "type": "narration",
+          "text": "She sits with her tea, the world alive around her. For the first time, she isn't performing progress. She is living it."
+        }
+      ]
+    },
+    {
+      "id": "frame-133",
+      "type": "panel",
+      "sequence": 133,
+      "prompt": "Medium shot. A man in his early 40s with warm brown skin and close-cropped hair steps through a doorway carrying a small bag of groceries. He freezes mid-step, eyes on someone across the room. He wears a simple linen shirt in muted earth tones. Evening light fills the workshop space from a window. Surprise softening into relief, a homecoming measured in a single exhale. Graphic novel style, dark ink washes, dawn palette — warm white, earth browns, soft amber, pale gold.",
+      "caption": null,
+      "narrative": "Scene 65. Elias returns. His freeze and study of Mara's face — looking for the kingdom, not finding it — is the emotional hinge. Evening natural light, warm tones.",
+      "chapter": "Act III",
+      "characters": [
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "The door opens. Elias steps inside carrying a small bag of groceries. He freezes when he sees Mara at the workbench."
+        },
+        {
+          "type": "narration",
+          "text": "He studies her face -- looking for the kingdom. He doesn't see it."
+        },
+        {
+          "type": "action",
+          "text": "He exhales."
+        }
+      ]
+    },
+    {
+      "id": "frame-134",
+      "type": "panel",
+      "sequence": 134,
+      "prompt": "Two-shot. A woman with short dark hair and a man in earth-toned linen face each other in a warm workshop. She stands with shoulders dropped, open posture, eyes direct and glistening. He exhales, body releasing tension. Between them, a workbench with the small dark Lens device sitting quietly. Evening golden light. The space between them is charged with honesty. Reconciliation, trust rebuilt in the body, no performance. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, earth browns, soft amber.",
+      "caption": "I turned it down. I turned myself up.",
+      "narrative": "Mara's key reconciliation line. Two figures balanced in frame per composition rules — connection and partnership. Elias's relief is physical: his stillness becomes light again rather than heavy.",
+      "chapter": "Act III",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You turned it off."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I turned it down. I turned myself up."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I'm sorry."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "I know."
+        },
+        {
+          "type": "narration",
+          "text": "He doesn't make her beg. Relief fills the space between them."
+        }
+      ]
+    },
+    {
+      "id": "frame-135",
+      "type": "panel",
+      "sequence": 135,
+      "prompt": "Close-up of two pairs of hands putting groceries away on a wooden shelf — one pair angular and lean, the other weathered and gentle. A bag of apples, a loaf of bread, simple food. Warm evening light on the wood grain. Mundane intimacy, love expressed through ordinary action, no montage needed. Graphic novel style, dark ink washes, dawn palette — warm white, earth browns, pale gold.",
+      "caption": null,
+      "narrative": "They put groceries away together. 'No montage. Just mundane intimacy.' The hands close-up follows the Body Rule and reality receipt visual language — the groceries are proof of life shared.",
+      "chapter": "Act III",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "action",
+          "text": "They start putting groceries away together. No montage. Just mundane intimacy."
+        },
+        {
+          "type": "narration",
+          "text": "Apples, bread, simple food on a wooden shelf. Two pairs of hands doing ordinary work. Love expressed through action."
+        }
+      ]
+    },
+    {
+      "id": "frame-136",
+      "type": "panel",
+      "sequence": 136,
+      "prompt": "Wide shot. Two figures stand on a rooftop overlooking a city at dawn. The city below glows softly — not oppressive, just one layer of a larger world. A pale sunrise bleeds warm gold along the horizon, meeting a cool gray-blue sky above. The figures are small but not dwarfed — they have space and sky around them. Open air, no screens, no devices visible. Stillness, presence, the crossing itself. Graphic novel style, dark ink washes, dawn palette — pale gold horizon, cool gray sky, warm white, the first natural greens in distant trees below.",
+      "caption": null,
+      "narrative": "Scene 66 opens. The rooftop from Act I returns — but the palette and framing have transformed. Wide shot with small figures per composition guide: 'wide landscape with small figure = scale of the crossing / freedom.' The city is softer, one layer not the whole world.",
+      "chapter": "Act III",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "narration",
+          "text": "The same rooftop as Act I. The city below still glows, but less oppressive now -- like it's one layer, not the whole world."
+        },
+        {
+          "type": "action",
+          "text": "Mara and Elias stand together in the pale sunrise. Phone off. Hands in pockets. Lens is not visible."
+        },
+        {
+          "type": "narration",
+          "text": "The air feels aligned, quieter."
+        }
+      ]
+    },
+    {
+      "id": "frame-137",
+      "type": "panel",
+      "sequence": 137,
+      "prompt": "Medium close-up. A woman with short dark hair looks toward the horizon, face lit by pale sunrise. Her expression is calm, open, present — eyes soft, jaw relaxed, the faintest smile. Beside her, a man's shoulder and profile are visible, steady. The sky behind them shifts from cool gray to warm gold. Morning wind stirs her hair. She is not performing hope — she is standing in it. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, soft gray, sky blue emerging above.",
+      "caption": "I'm not looking back.",
+      "narrative": "Mara's final declaration. Close-up to capture the transformation in her face per character notes: 'eyes softer, present, occasionally wet.' The sunrise palette is quiet, not triumphant.",
+      "chapter": "Act III",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "You okay?"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "I don't know where this ends."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Elias",
+          "text": "Me neither."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "But I know what I'm not doing anymore. I'm not looking back."
+        }
+      ]
+    },
+    {
+      "id": "frame-138",
+      "type": "panel",
+      "sequence": 138,
+      "prompt": "Medium close-up. A woman smiles — not at a device, at the sky. Her face is lit by warm dawn light. The background is soft, de-saturated, the world narrowed to this moment. Beside her, a man's hand finds hers. Two hands clasped together in the lower third of the frame, simple and human. Sunrise light, pale gold and warm white, the colors quiet not triumphant. Intent, presence, crossing. Graphic novel style, dark ink washes, dawn palette — pale gold, warm white, soft gray, the quietest greens and blues of a new day.",
+      "caption": "Yes.",
+      "narrative": "The final panel. Lens asks 'Intent?' and Mara answers 'Yes' — but the caption stands alone, answering everything. She takes Elias's hand. Simple. Human. Not victory. Crossing. The Edge Moment framing (face in sharp focus, de-saturated background) marks this as sacred. FADE OUT.",
+      "chapter": "Act III",
+      "characters": [
+        "mara",
+        "elias"
+      ],
+      "size": "1024x1536",
+      "quality": "high",
+      "beats": [
+        {
+          "type": "dialogue",
+          "speaker": "Lens",
+          "text": "Intent?"
+        },
+        {
+          "type": "narration",
+          "text": "Mara smiles -- not at the device, at the sky."
+        },
+        {
+          "type": "dialogue",
+          "speaker": "Mara",
+          "text": "Yes."
+        },
+        {
+          "type": "action",
+          "text": "She takes Elias's hand. Simple. Human. They stand as the sun rises."
+        },
+        {
+          "type": "narration",
+          "text": "Not victory. Crossing."
+        }
+      ]
+    }
+  ]
+}

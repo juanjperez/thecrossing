@@ -1,0 +1,22 @@
+{
+  "characters": [
+    {
+      "id": "mara",
+      "name": "Mara Vega",
+      "prompt": "A woman in her late 30s. Angular face, strong jaw, sharp dark eyes. Short dark hair, ear-length, slightly tousled. Lean build, tense posture. Wearing a dark fitted suit in early scenes, later transitioning to rolled sleeves and soft layers. Handsome rather than glamorous. Graphic novel style, dark ink washes, muted earth tones.",
+      "views": ["front", "side"]
+    },
+    {
+      "id": "elias",
+      "name": "Elias Ren",
+      "prompt": "A man in his early 40s. Warm brown skin, close-cropped natural hair. Medium build, slightly weathered face. Calm, observant eyes — the kind of face that makes others relax. Wearing simple earth-toned clothing: linen shirt, cotton layers, muted greens and browns. A craftsperson's hands. Grounded posture. Graphic novel style, dark ink washes, muted earth tones.",
+      "views": ["front", "side"]
+    },
+    {
+      "id": "celeste",
+      "name": "Celeste Rowan",
+      "prompt": "A woman in her 40s. Tall, composed, precise. Light skin, hair pulled back or sharply cut. The physicality of someone who carries institutional weight gracefully. Dark tailored clothing, minimal jewelry. Power without flash. Controlled expression, with fatigue visible only in private moments. Graphic novel style, dark ink washes, cool blue-gray tones.",
+      "views": ["front", "side"]
+    }
+  ]
+}
